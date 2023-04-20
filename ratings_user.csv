@@ -1,0 +1,738 @@
+user id,movie id,rating,timestamp,movie title,release date,video release date,IMDb URL,unknown,Action,Adventure,Animation,Childrens,Comedy,Crime,Documentary,Drama,Fantasy,Film-Noir,Horror,Musical,Mystery,Romance,Sci-Fi,Thriller,War,Western,count_rating,sum_rating
+405,56,4,1970-01-01,Pulp Fiction (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,394,1600
+405,592,1,1970-01-01,True Crime (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?True%20Crime%20(1995),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,9,30
+405,1582,1,1970-01-01,T-Men (1947),1947-01-01,0.0,http://us.imdb.com/M/title-exact?T-Men%20(1947),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+405,171,1,1970-01-01,Delicatessen (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?Delicatessen%20(1991),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,65,252
+405,580,1,1970-01-01,"Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Englishman%20Who%20Went%20Up%20a%20Hill,%20But%20Came%20Down%20a%20Mountain,%20The%20(1995)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,32,108
+405,1409,1,1970-01-01,"Swan Princess, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Swan%20Princess,%20The%20(1994)",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,20
+405,953,3,1970-01-01,Unstrung Heroes (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Unstrung%20Heroes%20(1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,22,73
+405,994,1,1970-01-01,"Last Time I Committed Suicide, The (1997)",1997-06-20,0.0,http://us.imdb.com/M/title-exact?Last+Time+I+Committed+Suicide%2C+The+(1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7,16
+405,387,1,1970-01-01,"Age of Innocence, The (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?Age%20of%20Innocence,%20The%20(1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,65,220
+405,1432,1,1970-01-01,"Mighty, The (1998)",1998-10-09,0.0,"http://us.imdb.com/Title?Mighty,+The+(1998)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,3
+405,190,2,1970-01-01,Henry V (1989),1989-01-01,0.0,http://us.imdb.com/M/title-exact?Henry%20V%20(1989),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,124,513
+405,521,4,1970-01-01,"Deer Hunter, The (1978)",1978-01-01,0.0,"http://us.imdb.com/M/title-exact?Deer%20Hunter,%20The%20(1978)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,120,460
+405,1177,1,1970-01-01,Dunston Checks In (1996),1996-01-01,0.0,http://us.imdb.com/M/title-exact?Dunston%20Checks%20In%20(1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,13
+405,1503,1,1970-01-01,Gold Diggers: The Secret of Bear Mountain (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Gold%20Diggers:%20The%20Secret%20of%20Bear%20Mountain%20(1995),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,31
+405,524,1,1970-01-01,"Great Dictator, The (1940)",1940-01-01,0.0,"http://us.imdb.com/M/title-exact?Great%20Dictator,%20The%20(1940)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,46,185
+405,570,1,1970-01-01,Wyatt Earp (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Wyatt%20Earp%20(1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,50,155
+405,721,1,1970-01-01,Mallrats (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Mallrats%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,54,186
+405,210,5,1970-01-01,Indiana Jones and the Last Crusade (1989),1989-01-01,0.0,http://us.imdb.com/M/title-exact?Indiana%20Jones%20and%20the%20Last%20Crusade%20(1989),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,331,1301
+405,465,1,1970-01-01,"Jungle Book, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Jungle%20Book,%20The%20(1994)",0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,85,303
+405,692,5,1970-01-01,"American President, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?American%20President,%20The%20(1995)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,164,595
+405,583,1,1970-01-01,Romeo Is Bleeding (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Romeo%20Is%20Bleeding%20(1993),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,37,111
+405,186,5,1970-01-01,"Blues Brothers, The (1980)",1980-01-01,0.0,"http://us.imdb.com/M/title-exact?Blues%20Brothers,%20The%20(1980)",0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,251,963
+405,78,2,1970-01-01,Free Willy (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Free%20Willy%20(1993),0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,33,81
+405,11,4,1970-01-01,Seven (Se7en) (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Se7en%20(1995),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,236,908
+405,1578,1,1970-01-01,"Collectionneuse, La (1967)",1967-01-01,0.0,"http://us.imdb.com/M/title-exact?Collectionneuse,%20La%20(1967)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,4
+405,787,3,1970-01-01,Roommates (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Roommates%20(1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,13,42
+405,414,1,1970-01-01,My Favorite Year (1982),1982-01-01,0.0,http://us.imdb.com/M/title-exact?My%20Favorite%20Year%20(1982),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,62,219
+405,172,5,1970-01-01,"Empire Strikes Back, The (1980)",1980-01-01,0.0,"http://us.imdb.com/M/title-exact?Empire%20Strikes%20Back,%20The%20(1980)",0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,367,1543
+405,430,1,1970-01-01,Duck Soup (1933),1933-01-01,0.0,http://us.imdb.com/M/title-exact?Duck%20Soup%20(1933),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,93,372
+405,773,1,1970-01-01,Mute Witness (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Mute%20Witness%20(1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,17,50
+405,178,3,1970-01-01,12 Angry Men (1957),1957-01-01,0.0,http://us.imdb.com/M/title-exact?12%20Angry%20Men%20(1957),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,125,543
+405,647,1,1970-01-01,Ran (1985),1985-01-01,0.0,http://us.imdb.com/M/title-exact?Ran%20(1985),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,70,287
+405,789,1,1970-01-01,Swimming with Sharks (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Swimming%20with%20Sharks%20(1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,47,168
+405,1118,1,1970-01-01,Up in Smoke (1978),1978-01-01,0.0,http://us.imdb.com/M/title-exact?Up%20in%20Smoke%20(1978),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,47,153
+405,426,1,1970-01-01,"Transformers: The Movie, The (1986)",1986-01-01,0.0,"http://us.imdb.com/M/title-exact?Transformers:%20The%20Movie,%20The%20(1986)",0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,32,91
+405,1338,1,1970-01-01,Two Deaths (1995),1996-08-09,0.0,http://us.imdb.com/Title?Two+Deaths+(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,9
+405,1554,4,1970-01-01,Safe Passage (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Safe%20Passage%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,6
+405,656,1,1970-01-01,M (1931),1931-01-01,0.0,http://us.imdb.com/M/title-exact?M%20(1931),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,44,176
+405,1561,1,1970-01-01,Tigrero: A Film That Was Never Made (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Tigrero:%20A%20Film%20That%20Was%20Never%20Made%20(1994),0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+405,440,1,1970-01-01,Amityville II: The Possession (1982),1982-01-01,0.0,http://us.imdb.com/M/title-exact?Amityville%20II:%20The%20Possession%20(1982),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,14,23
+405,722,1,1970-01-01,Nine Months (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Nine%20Months%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,58,170
+405,540,1,1970-01-01,Money Train (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Money%20Train%20(1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,108
+405,997,1,1970-01-01,Stuart Saves His Family (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Stuart%20Saves%20His%20Family%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,16,34
+405,232,4,1970-01-01,Young Guns (1988),1988-01-01,0.0,http://us.imdb.com/M/title-exact?Young%20Guns%20(1988),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,101,324
+405,1100,1,1970-01-01,What Happened Was... (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?What%20Happened%20Was...%20(1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,8,21
+405,442,1,1970-01-01,"Amityville Curse, The (1990)",1990-01-01,0.0,"http://us.imdb.com/M/title-exact?Amityville%20Curse,%20The%20(1990)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,5
+405,72,3,1970-01-01,"Mask, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Mask,%20The%20(1994)",0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,129,412
+405,135,5,1970-01-01,2001: A Space Odyssey (1968),1968-01-01,0.0,http://us.imdb.com/M/title-exact?2001:%20A%20Space%20Odyssey%20(1968),0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,259,1028
+405,700,1,1970-01-01,Miami Rhapsody (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Miami%20Rhapsody%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,15,39
+405,1434,1,1970-01-01,Shooting Fish (1997),1998-01-16,0.0,http://us.imdb.com/M/title-exact?imdb-title-120122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10,25
+405,96,3,1970-01-01,Terminator 2: Judgment Day (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?Terminator%202:%20Judgment%20Day%20(1991),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,295,1182
+405,1565,1,1970-01-01,Daens (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Daens%20(1992),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+405,734,2,1970-01-01,Made in America (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Made%20in%20America%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,27,68
+405,1469,1,1970-01-01,Tom and Huck (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Tom%20and%20Huck%20(1995),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,38
+405,964,1,1970-01-01,"Month by the Lake, A (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Month%20by%20The%20Lake,%20A%20(1995)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,9,30
+405,1250,1,1970-01-01,Best of the Best 3: No Turning Back (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Best%20of%20the%20Best%203:%20No%20Turning%20Back%20(1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,9
+405,214,4,1970-01-01,Pink Floyd - The Wall (1982),1982-01-01,0.0,http://us.imdb.com/M/title-exact?Pink%20Floyd%20-%20The%20Wall%20(1982),0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,114,382
+405,450,1,1970-01-01,Star Trek V: The Final Frontier (1989),1989-01-01,0.0,http://us.imdb.com/M/title-exact?Star%20Trek%20V:%20The%20Final%20Frontier%20(1989),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,63,151
+405,127,5,1970-01-01,"Godfather, The (1972)",1972-01-01,0.0,"http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,413,1769
+405,719,1,1970-01-01,Canadian Bacon (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Canadian%20Bacon%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,29,70
+405,90,4,1970-01-01,So I Married an Axe Murderer (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?So%20I%20Married%20an%20Axe%20Murderer%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,95,290
+405,1230,1,1970-01-01,Ready to Wear (Pret-A-Porter) (1994),1994-01-01,0.0,http://us.imdb.com/Title?Pr%EAt-%E0-Porter+(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,18,33
+405,206,1,1970-01-01,Akira (1988),1988-01-01,0.0,http://us.imdb.com/M/title-exact?Akira%20(1988),0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,50,169
+405,1531,1,1970-01-01,Far From Home: The Adventures of Yellow Dog (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Far%20From%20Home:%20The%20Adventures%20of%20Yellow%20Dog%20(1995),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,23
+405,695,1,1970-01-01,Kicking and Screaming (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Kicking%20and%20Screaming%20(1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,13,38
+405,92,1,1970-01-01,True Romance (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?True%20Romance%20(1993),0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,104,376
+405,1176,3,1970-01-01,Welcome To Sarajevo (1997),1997-01-01,0.0,http://us.imdb.com/M/title-exact?Welcome+To+Sarajevo+(1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,22,74
+405,639,1,1970-01-01,"Tin Drum, The (Blechtrommel, Die) (1979)",1979-01-01,0.0,"http://us.imdb.com/M/title-exact?Blechtrommel,%20Die%20(1979)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,40,148
+405,366,3,1970-01-01,Dangerous Minds (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Dangerous%20Minds%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,47,157
+405,470,1,1970-01-01,Tombstone (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Tombstone%20(1993),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,108,396
+405,1555,1,1970-01-01,"Secret Adventures of Tom Thumb, The (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?Secret%20Adventures%20of%20Tom%20Thumb,%20The%20(1993)",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,13
+405,699,2,1970-01-01,Little Women (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Little%20Women%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,102,375
+405,575,5,1970-01-01,City Slickers II: The Legend of Curly's Gold (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?City%20Slickers%20II:%20The%20Legend%20of%20Curly's%20Gold%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,44,112
+405,422,1,1970-01-01,Aladdin and the King of Thieves (1996),1996-01-01,0.0,http://us.imdb.com/M/title-exact?Aladdin%20and%20the%20King%20of%20Thieves%20(1996)%20(V),0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,26,74
+405,1353,1,1970-01-01,1-900 (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?06%20(1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,13
+405,1227,3,1970-01-01,"Awfully Big Adventure, An (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Awfully%20Big%20Adventure,%20An%20(1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8,19
+405,451,5,1970-01-01,Grease (1978),1978-01-01,0.0,http://us.imdb.com/M/title-exact?Grease%20(1978),0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,170,569
+405,1188,3,1970-01-01,Young Guns II (1990),1990-01-01,0.0,http://us.imdb.com/M/title-exact?Young%20Guns%20II%20(1990),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,44,122
+405,1207,1,1970-01-01,Jade (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Jade%20(1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,17,39
+405,230,2,1970-01-01,Star Trek IV: The Voyage Home (1986),1986-01-01,0.0,http://us.imdb.com/M/title-exact?Star%20Trek%20IV:%20The%20Voyage%20Home%20(1986),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,199,686
+405,62,1,1970-01-01,Stargate (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Stargate%20(1994),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,127,399
+405,771,1,1970-01-01,Johnny Mnemonic (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Johnny%20Mnemonic%20(1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,41,108
+405,1247,1,1970-01-01,Bad Girls (1994),1994-01-01,0.0,http://us.imdb.com/Title?Bad+Girls+(1994/I),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,11
+405,188,1,1970-01-01,Full Metal Jacket (1987),1987-01-01,0.0,http://us.imdb.com/M/title-exact?Full%20Metal%20Jacket%20(1987),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,170,626
+405,578,1,1970-01-01,Demolition Man (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Demolition%20Man%20(1993),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,92,290
+405,1563,1,1970-01-01,"Promise, The (Versprechen, Das) (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Versprechen,%20Das%20(1994)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1
+405,350,1,1970-01-01,Fallen (1998),1998-01-16,0.0,http://us.imdb.com/Title?Fallen+(1998),0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,41,129
+405,1046,2,1970-01-01,Malice (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Malice%20(1993),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,46,146
+405,432,3,1970-01-01,Fantasia (1940),1940-01-01,0.0,http://us.imdb.com/M/title-exact?Fantasia%20(1940),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,174,656
+405,775,1,1970-01-01,Something to Talk About (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Something%20to%20Talk%20About%20(1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,26,72
+405,650,1,1970-01-01,"Seventh Seal, The (Sjunde inseglet, Det) (1957)",1957-01-01,0.0,"http://us.imdb.com/M/title-exact?Sjunde%20inseglet,%20Det%20(1957)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,72,255
+405,1316,1,1970-01-01,"Horse Whisperer, The (1998)",1997-12-25,0.0,http://us.imdb.com/M/title-exact?imdb-title-119314,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7,19
+405,1275,1,1970-01-01,Killer (Bulletproof Heart) (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Killer%20(1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,10
+405,361,2,1970-01-01,Incognito (1997),1997-01-01,0.0,http://us.imdb.com/M/title-exact?Incognito+(1997),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,10,35
+405,551,1,1970-01-01,Lord of Illusions (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Lord%20of%20Illusions%20(1995),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,24,58
+405,1113,1,1970-01-01,Mrs. Parker and the Vicious Circle (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Mrs.%20Parker%20and%20the%20Vicious%20Circle%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,22,72
+405,1109,1,1970-01-01,Death and the Maiden (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Death%20and%20the%20Maiden%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,28,96
+405,785,1,1970-01-01,Only You (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Only%20You%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,39,123
+405,581,3,1970-01-01,Kalifornia (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Kalifornia%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,59,190
+405,30,1,1970-01-01,Belle de jour (1967),1967-01-01,0.0,http://us.imdb.com/M/title-exact?Belle%20de%20jour%20(1967),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,37,146
+405,759,1,1970-01-01,Fair Game (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Fair%20Game%20(1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,24
+405,1058,1,1970-01-01,"War, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?War,%20The%20(1994)",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,15,49
+405,1317,1,1970-01-01,"Journey of August King, The (1995)",1996-03-22,0.0,"http://us.imdb.com/M/title-exact?Journey%20of%20August%20King,%20The%20(1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,8
+405,1519,2,1970-01-01,New Jersey Drive (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?New%20Jersey%20Drive%20(1995),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2,6
+405,1045,3,1970-01-01,Fearless (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Fearless%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,25,81
+405,959,1,1970-01-01,Dazed and Confused (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Dazed%20and%20Confused%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,64,222
+405,1217,3,1970-01-01,Assassins (1995),1995-01-01,0.0,http://us.imdb.com/Title?Assassins+(1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,39,112
+405,449,1,1970-01-01,Star Trek: The Motion Picture (1979),1979-01-01,0.0,http://us.imdb.com/M/title-exact?Star%20Trek:%20The%20Motion%20Picture%20(1979),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,117,355
+405,169,1,1970-01-01,"Wrong Trousers, The (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?Wrong%20Trousers,%20The%20(1993)",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,118,527
+405,527,5,1970-01-01,Gandhi (1982),1982-01-01,0.0,http://us.imdb.com/M/title-exact?Gandhi%20(1982),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,195,784
+405,1029,1,1970-01-01,Jury Duty (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Jury%20Duty%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,14,28
+405,1248,1,1970-01-01,Blink (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Blink%20(1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,19,57
+405,371,1,1970-01-01,"Bridges of Madison County, The (1995)",1996-02-09,0.0,"http://us.imdb.com/M/title-exact?Bridges%20of%20Madison%20County,%20The%20(1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,67,212
+405,593,1,1970-01-01,Stalingrad (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Stalingrad%20(1993),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,12,38
+405,1435,1,1970-01-01,"Steal Big, Steal Little (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Steal%20Big,%20Steal%20Little%20(1995)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,18
+405,795,2,1970-01-01,Richie Rich (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Richie%20Rich%20(1994),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,21,51
+405,673,5,1970-01-01,Cape Fear (1962),1962-01-01,0.0,http://us.imdb.com/M/title-exact?Cape%20Fear%20(1962),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,86,303
+405,1167,1,1970-01-01,"Sum of Us, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Sum%20of%20Us,%20The%20(1994)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,11,39
+405,396,1,1970-01-01,Serial Mom (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Serial%20Mom%20(1994),0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,54,152
+405,1421,1,1970-01-01,My Crazy Life (Mi vida loca) (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Mi%20vida%20loca%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11,35
+405,1178,1,1970-01-01,Major Payne (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Major%20Payne%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,19,47
+405,1557,1,1970-01-01,Yankee Zulu (1994),1996-02-16,0.0,http://us.imdb.com/M/title-exact?Yankee%20Zulu%20(1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+405,579,1,1970-01-01,Fatal Instinct (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Fatal%20Instinct%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,19,50
+405,386,3,1970-01-01,Addams Family Values (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Addams%20Family%20Values%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,87,245
+405,510,1,1970-01-01,"Magnificent Seven, The (1954)",1954-01-01,0.0,http://us.imdb.com/M/title-exact?Shichinin%20no%20samurai%20(1954),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,121,477
+405,467,4,1970-01-01,"Bronx Tale, A (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?Bronx%20Tale,%20A%20(1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,48,182
+405,765,1,1970-01-01,Boomerang (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Boomerang%20(1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,32,90
+405,1562,1,1970-01-01,"Eye of Vichy, The (Oeil de Vichy, L') (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?Oeil%20de%20Vichy,%20L'%20(1993)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+405,768,3,1970-01-01,Casper (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Casper%20(1995),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,160
+405,1175,1,1970-01-01,Hugo Pool (1997),1997-01-01,0.0,http://us.imdb.com/M/title-exact?Hugo+Pool+(1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,17
+405,1180,1,1970-01-01,I Love Trouble (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?I%20Love%20Trouble%20(1994),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,10,25
+405,511,2,1970-01-01,Lawrence of Arabia (1962),1962-01-01,0.0,http://us.imdb.com/M/title-exact?Lawrence%20of%20Arabia%20(1962),0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,173,732
+405,1004,1,1970-01-01,Geronimo: An American Legend (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Geronimo:%20An%20American%20Legend%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,9,28
+405,530,1,1970-01-01,"Man Who Would Be King, The (1975)",1975-01-01,0.0,"http://us.imdb.com/M/title-exact?Man%20Who%20Would%20Be%20King,%20The%20(1975)",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,322
+405,652,1,1970-01-01,Rosencrantz and Guildenstern Are Dead (1990),1990-01-01,0.0,http://us.imdb.com/M/title-exact?Rosencrantz%20and%20Guildenstern%20Are%20Dead%20(1990),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,90,350
+405,1550,3,1970-01-01,Destiny Turns on the Radio (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Destiny%20Turns%20on%20the%20Radio%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6
+405,522,1,1970-01-01,Down by Law (1986),1986-01-01,0.0,http://us.imdb.com/M/title-exact?Down%20by%20Law%20(1986),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,35,132
+405,1424,1,1970-01-01,I Like It Like That (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?I%20Like%20It%20Like%20That%20(1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,3,7
+405,217,1,1970-01-01,Bram Stoker's Dracula (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Bram%20Stoker's%20Dracula%20(1992),0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,120,379
+405,88,3,1970-01-01,Sleepless in Seattle (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Sleepless%20in%20Seattle%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,213,754
+405,318,5,1970-01-01,Schindler's List (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,298,1331
+405,670,1,1970-01-01,Body Snatchers (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Body%20Snatchers%20(1993),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,36,108
+405,28,4,1970-01-01,Apollo 13 (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Apollo%2013%20(1995),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,276,1085
+405,437,1,1970-01-01,Amityville 1992: It's About Time (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Amityville%201992:%20It's%20About%20Time%20(1992),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5,5
+405,192,5,1970-01-01,Raging Bull (1980),1980-01-01,0.0,http://us.imdb.com/M/title-exact?Raging%20Bull%20(1980),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,116,478
+405,1586,1,1970-01-01,Lashou shentan (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Lashou%20Shentan%20(1992),0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+405,1318,1,1970-01-01,Catwalk (1995),1996-06-07,0.0,http://us.imdb.com/Title?Catwalk+(1995/I),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,4
+405,941,1,1970-01-01,With Honors (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?With%20Honors%20(1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,46,141
+405,565,2,1970-01-01,Village of the Damned (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Village%20of%20the%20Damned%20(1995),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,22,59
+405,228,1,1970-01-01,Star Trek: The Wrath of Khan (1982),1982-01-01,0.0,http://us.imdb.com/M/title-exact?Star%20Trek:%20The%20Wrath%20of%20Khan%20(1982),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,244,931
+405,541,1,1970-01-01,Mortal Kombat (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Mortal%20Kombat%20(1995),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,141
+405,514,1,1970-01-01,Annie Hall (1977),1977-01-01,0.0,http://us.imdb.com/M/title-exact?Annie%20Hall%20(1977),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,180,704
+405,623,1,1970-01-01,Angels in the Outfield (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Angels%20in%20the%20Outfield%20(1994),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,39,114
+405,216,2,1970-01-01,When Harry Met Sally... (1989),1989-01-01,0.0,http://us.imdb.com/M/title-exact?When%20Harry%20Met%20Sally...%20(1989),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,290,1134
+405,87,1,1970-01-01,Searching for Bobby Fischer (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Searching%20for%20Bobby%20Fischer%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,138,539
+405,1066,1,1970-01-01,Balto (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Balto%20(1995),0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,48
+405,423,5,1970-01-01,E.T. the Extra-Terrestrial (1982),1982-01-01,0.0,http://us.imdb.com/M/title-exact?E%2ET%2E%20the%20Extra-Terrestrial%20%281982%29,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,300,1150
+405,1110,1,1970-01-01,Tank Girl (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Tank%20Girl%20(1995),0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,41,117
+405,463,1,1970-01-01,"Secret of Roan Inish, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Secret%20of%20Roan%20Inish,%20The%20(1994)",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71,274
+405,227,1,1970-01-01,Star Trek VI: The Undiscovered Country (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?Star%20Trek%20VI:%20The%20Undiscovered%20Country%20(1991),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,161,528
+405,197,4,1970-01-01,"Graduate, The (1967)",1967-01-01,0.0,"http://us.imdb.com/M/title-exact?Graduate,%20The%20(1967)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,239,981
+405,393,4,1970-01-01,Mrs. Doubtfire (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Mrs.%20Doubtfire%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,192,655
+405,1391,1,1970-01-01,For Ever Mozart (1996),1997-07-04,0.0,http://us.imdb.com/M/title-exact?For+Ever+Mozart+(1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,6
+405,1168,1,1970-01-01,Little Buddha (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Little%20Buddha%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,22,73
+405,949,5,1970-01-01,How to Make an American Quilt (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?How%20to%20Make%20an%20American%20Quilt%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,71,237
+405,1580,1,1970-01-01,Liebelei (1933),1933-01-01,0.0,http://us.imdb.com/M/title-exact?Liebelei%20(1933),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1
+405,1268,1,1970-01-01,Bitter Moon (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Lunes%20de%20fiel%20(1992),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,33
+405,999,1,1970-01-01,Clean Slate (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Clean%20Slate%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,10,28
+405,308,1,1970-01-01,FairyTale: A True Story (1997),1997-01-01,0.0,http://us.imdb.com/M/title-exact?Fairytale:+A+True+Story+(1997),0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,30,89
+405,1384,1,1970-01-01,Squeeze (1996),1997-06-13,0.0,http://us.imdb.com/M/title-exact?Squeeze%20%281996%29,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,5
+405,53,2,1970-01-01,Natural Born Killers (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Natural%20Born%20Killers%20(1994),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,128,378
+405,753,1,1970-01-01,Burnt By the Sun (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Utomlyonnye%20Solntsem%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,24,89
+405,693,2,1970-01-01,Casino (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Casino%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,91,332
+405,1530,1,1970-01-01,Jefferson in Paris (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Jefferson%20in%20Paris%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,10
+405,462,2,1970-01-01,Like Water For Chocolate (Como agua para chocolate) (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Como%20agua%20para%20chocolate%20(1992),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,148,563
+405,1119,3,1970-01-01,Some Kind of Wonderful (1987),1987-01-01,0.0,http://us.imdb.com/M/title-exact?Some%20Kind%20of%20Wonderful%20(1987),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,59,216
+405,77,1,1970-01-01,"Firm, The (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?Firm,%20The%20(1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,151,495
+405,946,2,1970-01-01,"Fox and the Hound, The (1981)",1981-01-01,0.0,"http://us.imdb.com/M/title-exact?Fox%20and%20the%20Hound,%20The%20(1981)",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,192
+405,175,1,1970-01-01,Brazil (1985),1985-01-01,0.0,http://us.imdb.com/M/title-exact?Brazil%20(1985),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,208,794
+405,669,1,1970-01-01,Body Parts (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?Body%20Parts%20(1991),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,13,21
+405,142,1,1970-01-01,Bedknobs and Broomsticks (1971),1971-01-01,0.0,http://us.imdb.com/M/title-exact?Bedknobs%20and%20Broomsticks%20(1971),0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,57,175
+405,559,5,1970-01-01,Interview with the Vampire (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Interview%20with%20the%20Vampire%20(1994),0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,137,436
+405,654,2,1970-01-01,Chinatown (1974),1974-01-01,0.0,http://us.imdb.com/M/title-exact?Chinatown%20(1974),0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,147,608
+405,793,1,1970-01-01,Crooklyn (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Crooklyn%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,10,35
+405,1479,1,1970-01-01,Reckless (1995),1995-01-01,0.0,http://us.imdb.com/Title?Reckless+(1995/I),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8,22
+405,189,1,1970-01-01,"Grand Day Out, A (1992)",1992-01-01,0.0,"http://us.imdb.com/M/title-exact?Grand%20Day%20Out,%20A%20(1992)",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,66,271
+405,574,1,1970-01-01,Boxing Helena (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Boxing%20Helena%20(1993),0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,15,33
+405,400,1,1970-01-01,"Little Rascals, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Little%20Rascals,%20The%20(1994)",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,18,49
+405,302,4,1970-01-01,L.A. Confidential (1997),1997-01-01,0.0,http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997),0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,297,1236
+405,778,1,1970-01-01,Don Juan DeMarco (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Don%20Juan%20DeMarco%20and%20the%20Centerfold%20(1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,76,270
+405,625,3,1970-01-01,"Sword in the Stone, The (1963)",1963-01-01,0.0,"http://us.imdb.com/M/title-exact?Sword%20in%20the%20Stone,%20The%20(1963)",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,273
+405,671,2,1970-01-01,Bride of Frankenstein (1935),1935-01-01,0.0,http://us.imdb.com/M/title-exact?Bride%20of%20Frankenstein%20(1935),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,46,166
+405,31,1,1970-01-01,Crimson Tide (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Crimson%20Tide%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,154,559
+405,664,1,1970-01-01,"Paris, Texas (1984)",1984-01-01,0.0,"http://us.imdb.com/M/title-exact?Paris,%20Texas%20(1984)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,46,163
+405,653,1,1970-01-01,Touch of Evil (1958),1958-01-01,0.0,http://us.imdb.com/M/title-exact?Touch%20of%20Evil%20(1958),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,34,133
+405,452,5,1970-01-01,Jaws 2 (1978),1978-01-01,0.0,http://us.imdb.com/M/title-exact?Jaws%202%20(1978),0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,66,176
+405,1240,1,1970-01-01,Ghost in the Shell (Kokaku kidotai) (1995),1996-04-12,0.0,http://us.imdb.com/M/title-exact?Kokaku%20Kidotai%20(1995),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,26,95
+405,622,1,1970-01-01,Swiss Family Robinson (1960),1960-01-01,0.0,http://us.imdb.com/M/title-exact?Swiss%20Family%20Robinson%20(1960),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,131
+405,40,2,1970-01-01,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?To%20Wong%20Foo,%20Thanks%20for%20Everything!%20Julie%20Newmar%20(1995)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,57,165
+405,1139,1,1970-01-01,Hackers (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Hackers%20(1995),0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,33,86
+405,947,1,1970-01-01,"Big Blue, The (Grand bleu, Le) (1988)",1988-01-01,0.0,"http://us.imdb.com/M/title-exact?Grand%20bleu,%20Le%20(1988)",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,17,55
+405,655,5,1970-01-01,Stand by Me (1986),1986-01-01,0.0,http://us.imdb.com/M/title-exact?Stand%20by%20Me%20(1986),0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,227,881
+405,1566,1,1970-01-01,"Man from Down Under, The (1943)",1943-01-01,0.0,"http://us.imdb.com/Title?Man+from+Down+Under,+The+(1943)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+405,49,1,1970-01-01,I.Q. (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?I.Q.%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,81,269
+405,648,1,1970-01-01,"Quiet Man, The (1952)",1952-01-01,0.0,"http://us.imdb.com/M/title-exact?Quiet%20Man,%20The%20(1952)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,67,270
+405,772,1,1970-01-01,Kids (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Kids%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,49,150
+405,1210,1,1970-01-01,Virtuosity (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Virtuosity%20(1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,38,104
+405,1589,1,1970-01-01,Schizopolis (1996),1997-05-23,0.0,http://us.imdb.com/Title?Schizopolis+(1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,12
+405,212,1,1970-01-01,"Unbearable Lightness of Being, The (1988)",1988-01-01,0.0,"http://us.imdb.com/M/title-exact?Unbearable%20Lightness%20of%20Being,%20The%20(1988)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,92,318
+405,552,1,1970-01-01,Species (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Species%20(1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,45,129
+405,780,3,1970-01-01,Dumb & Dumber (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Dumb%20&%20Dumber%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,69,207
+405,469,1,1970-01-01,Short Cuts (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Short%20Cuts%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,67,253
+405,624,4,1970-01-01,"Three Caballeros, The (1945)",1945-01-01,0.0,"http://us.imdb.com/M/title-exact?Three%20Caballeros,%20The%20(1945)",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,22,72
+405,431,3,1970-01-01,Highlander (1986),1986-01-01,0.0,http://us.imdb.com/M/title-exact?Highlander%20(1986),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,153,541
+405,1111,1,1970-01-01,Double Happiness (1994),1996-03-01,0.0,http://us.imdb.com/M/title-exact?Double%20Happiness%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7,24
+405,50,5,1970-01-01,Star Wars (1977),1977-01-01,0.0,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977),0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,583,2541
+405,969,3,1970-01-01,Winnie the Pooh and the Blustery Day (1968),1968-01-01,0.0,http://us.imdb.com/M/title-exact?Winnie%20the%20Pooh%20and%20the%20Blustery%20Day%20%281968%29,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,285
+405,185,4,1970-01-01,Psycho (1960),1960-01-01,0.0,http://us.imdb.com/M/title-exact?Psycho%20(1960),0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,239,980
+405,179,1,1970-01-01,"Clockwork Orange, A (1971)",1971-01-01,0.0,"http://us.imdb.com/M/title-exact?Clockwork%20Orange,%20A%20(1971)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,221,864
+405,1592,1,1970-01-01,"Magic Hour, The (1998)",1998-01-30,0.0,http://us.imdb.com/M/title-exact?imdb-title-119594,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,18
+405,996,1,1970-01-01,"Big Green, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Big%20Green,%20The%20(1995)",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,14,35
+405,66,5,1970-01-01,While You Were Sleeping (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?While%20You%20Were%20Sleeping%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,162,575
+405,1099,1,1970-01-01,"Red Firecracker, Green Firecracker (1994)",1994-01-01,0.0,http://us.imdb.com/M/title-exact?Pao%20Da%20Shuang%20Deng%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,13,45
+405,1018,1,1970-01-01,Tie Me Up! Tie Me Down! (1990),1990-01-01,0.0,http://us.imdb.com/Title?%A1%C1tame%21+(1990),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,32,102
+405,1267,1,1970-01-01,Clockers (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Clockers%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,33,99
+405,1547,2,1970-01-01,"Show, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Show,%20The%20(1995)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,6
+405,207,1,1970-01-01,Cyrano de Bergerac (1990),1990-01-01,0.0,http://us.imdb.com/M/title-exact?Cyrano%20de%20Bergerac%20(1990),0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,66,252
+405,1400,1,1970-01-01,Picture Bride (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Picture%20Bride%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,10,31
+405,557,1,1970-01-01,Farinelli: il castrato (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Farinelli:%20il%20castrato%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,17,53
+405,76,3,1970-01-01,Carlito's Way (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Carlito's%20Way%20(1993),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,54,184
+405,649,1,1970-01-01,Once Upon a Time in America (1984),1984-01-01,0.0,http://us.imdb.com/M/title-exact?Once%20Upon%20a%20Time%20in%20America%20(1984),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,50,170
+405,239,3,1970-01-01,Sneakers (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Sneakers%20(1992),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,150,527
+405,1346,1,1970-01-01,Dingo (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Dingo%20(1992),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,12
+405,812,1,1970-01-01,Andre (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Andre%20(1994),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,56
+405,791,1,1970-01-01,"Baby-Sitters Club, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Baby-Sitters%20Club,%20The%20(1995)",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,25
+405,761,1,1970-01-01,Nick of Time (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Nick%20of%20Time%20(1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,44,134
+405,191,4,1970-01-01,Amadeus (1984),1984-01-01,0.0,http://us.imdb.com/M/title-exact?Amadeus%20(1984),0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,276,1149
+405,67,5,1970-01-01,Ace Ventura: Pet Detective (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Ace%20Ventura:%20Pet%20Detective%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,103,314
+405,726,1,1970-01-01,Fluke (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Fluke%20(1995),0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,14,34
+405,2,1,1970-01-01,GoldenEye (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?GoldenEye%20(1995),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,131,420
+405,554,1,1970-01-01,Waterworld (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Waterworld%20(1995),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,286
+405,732,5,1970-01-01,Dave (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Dave%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,180,657
+405,1439,1,1970-01-01,Jason's Lyric (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Jason's%20Lyric%20(1994),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,8,24
+405,395,3,1970-01-01,Robin Hood: Men in Tights (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Robin%20Hood:%20Men%20in%20Tights%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,56,145
+405,560,1,1970-01-01,"Kid in King Arthur's Court, A (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Kid%20in%20King%20Arthur's%20Court,%20A%20(1995)",0,0,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,22,60
+405,98,4,1970-01-01,"Silence of the Lambs, The (1991)",1991-01-01,0.0,"http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,390,1673
+405,374,1,1970-01-01,Mighty Morphin Power Rangers: The Movie (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Mighty%20Morphin%20Power%20Rangers:%20The%20Movie%20(1995),0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,25
+405,1221,1,1970-01-01,When a Man Loves a Woman (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?When%20a%20Man%20Loves%20a%20Woman%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,39,136
+405,729,4,1970-01-01,Nell (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Nell%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,81,282
+405,1253,1,1970-01-01,"Tie That Binds, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Tie%20That%20Binds,%20The%20(1995)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,17
+405,1290,2,1970-01-01,Country Life (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Country%20Life%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,2,3
+405,1588,1,1970-01-01,Salut cousin! (1996),1997-02-21,0.0,http://us.imdb.com/M/title-exact?Salut%20cousin!%20(1996),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,4
+405,573,3,1970-01-01,Body Snatchers (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Body%20Snatchers%20(1993),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,33,97
+405,1166,1,1970-01-01,Love & Human Remains (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Love%20&%20Human%20Remains%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,12,38
+405,1590,1,1970-01-01,"To Have, or Not (1995)",1997-06-06,0.0,http://us.imdb.com/M/title-exact?En%20avoir%20%28ou%20pas%29%20%281995%29,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,4
+405,1148,1,1970-01-01,Tom & Viv (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Tom%20&%20Viv%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9,30
+405,525,1,1970-01-01,"Big Sleep, The (1946)",1946-01-01,0.0,"http://us.imdb.com/M/title-exact?Big%20Sleep,%20The%20(1946)",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,73,294
+405,776,1,1970-01-01,Three Wishes (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Three%20Wishes%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9,29
+405,644,3,1970-01-01,"Thin Blue Line, The (1988)",1988-01-01,0.0,"http://us.imdb.com/M/title-exact?Thin%20Blue%20Line,%20The%20(1988)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,35,132
+405,957,1,1970-01-01,Pushing Hands (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Tui%20Shou%20(1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4
+405,416,2,1970-01-01,Old Yeller (1957),1957-01-01,0.0,http://us.imdb.com/M/title-exact?Old%20Yeller%20(1957),0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,64,223
+405,419,4,1970-01-01,Mary Poppins (1964),1964-01-01,0.0,http://us.imdb.com/M/title-exact?Mary%20Poppins%20(1964),0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,178,663
+405,1587,1,1970-01-01,Terror in a Texas Town (1958),1958-01-01,0.0,http://us.imdb.com/M/title-exact?Terror%20in%20a%20Texas%20Town%20(1958),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+405,769,1,1970-01-01,Congo (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Congo%20(1995),0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,42,103
+405,211,1,1970-01-01,M*A*S*H (1970),1970-01-01,0.0,http://us.imdb.com/M/title-exact?MASH%20(1970),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,206,806
+405,1307,1,1970-01-01,Carmen Miranda: Bananas Is My Business (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Carmen%20Miranda:%20Bananas%20Is%20My%20Business%20(1994),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,3
+405,788,1,1970-01-01,Relative Fear (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Relative%20Fear%20(1994),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,3,5
+405,404,4,1970-01-01,Pinocchio (1940),1940-01-01,0.0,http://us.imdb.com/M/title-exact?Pinocchio%20(1940),0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,101,371
+405,667,1,1970-01-01,Audrey Rose (1977),1977-01-01,0.0,http://us.imdb.com/M/title-exact?Audrey%20Rose%20(1977),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,12,26
+405,1108,1,1970-01-01,Feast of July (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Feast%20of%20July%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,12
+405,714,1,1970-01-01,Carrington (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Carrington%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,13,42
+405,1571,1,1970-01-01,Touki Bouki (Journey of the Hyena) (1973),1973-01-01,0.0,http://us.imdb.com/M/title-exact?Touki%20Bouki%20(1973),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+405,971,1,1970-01-01,Mediterraneo (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?Mediterraneo%20(1991),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,34,125
+405,1200,1,1970-01-01,Kim (1950),1950-01-01,0.0,http://us.imdb.com/M/title-exact?Kim%20(1950),0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7,23
+405,1549,1,1970-01-01,Dream Man (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Dream%20Man%20(1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3
+405,226,2,1970-01-01,Die Hard 2 (1990),1990-01-01,0.0,http://us.imdb.com/M/title-exact?Die%20Hard%202%20(1990),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,166,557
+405,627,1,1970-01-01,Robin Hood: Prince of Thieves (1991),1991-01-01,0.0,http://us.imdb.com/Title?Robin+Hood%3A+Prince+of+Thieves+(1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,75,242
+405,702,1,1970-01-01,Barcelona (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Barcelona%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,53,160
+405,643,1,1970-01-01,The Innocent (1994),1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Innocent,%20The%20(1994)%20(TV)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4,12
+405,399,1,1970-01-01,"Three Musketeers, The (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?Three%20Musketeers,%20The%20(1993)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,89,294
+405,569,1,1970-01-01,Wolf (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Wolf%20(1994),0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,67,181
+405,41,1,1970-01-01,Billy Madison (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Billy%20Madison%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,37,114
+405,70,3,1970-01-01,Four Weddings and a Funeral (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Four%20Weddings%20and%20a%20Funeral%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,251,919
+405,1182,1,1970-01-01,Cops and Robbersons (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Cops%20and%20Robbersons%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13,30
+405,85,4,1970-01-01,"Ref, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Ref,%20The%20(1994)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,58,176
+405,548,1,1970-01-01,"NeverEnding Story III, The (1994)",1996-02-02,0.0,"http://us.imdb.com/M/title-exact?NeverEnding%20Story%20III,%20The%20(1994)",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,12,26
+405,1558,1,1970-01-01,Aparajito (1956),1996-03-29,0.0,http://us.imdb.com/M/title-exact?Aparajito%20(1956),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7,25
+405,73,5,1970-01-01,Maverick (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Maverick%20(1994),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,128,444
+405,39,1,1970-01-01,Strange Days (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Strange%20Days%20(1995),0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,87,284
+405,517,3,1970-01-01,Manhattan (1979),1979-01-01,0.0,http://us.imdb.com/M/title-exact?Manhattan%20(1979),0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,91,343
+405,1575,1,1970-01-01,"I, Worst of All (Yo, la peor de todas) (1990)",1990-01-01,0.0,"http://us.imdb.com/M/title-exact?Yo,%20la%20Peor%20de%20Todas%20(1990)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+405,1159,1,1970-01-01,Stalker (1979),1979-01-01,0.0,http://us.imdb.com/M/title-exact?Stalker%20(1979),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,11,39
+405,1274,1,1970-01-01,Robocop 3 (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Robocop%203%20(1993),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,11,19
+405,720,1,1970-01-01,First Knight (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?First%20Knight%20(1995),0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,86,260
+405,588,2,1970-01-01,Beauty and the Beast (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?Beauty%20and%20the%20Beast%20(1991),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,202,766
+405,51,1,1970-01-01,Legends of the Fall (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Legends%20of%20the%20Fall%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,81,280
+405,1425,1,1970-01-01,I'll Do Anything (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?I'll%20Do%20Anything%20(1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,10,26
+405,1074,3,1970-01-01,Reality Bites (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Reality%20Bites%20(1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,77,228
+405,796,3,1970-01-01,Speechless (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Speechless%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,36,111
+405,1579,1,1970-01-01,Baton Rouge (1988),1988-01-01,0.0,http://us.imdb.com/Title?B%E2ton+rouge+(1988),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+405,1112,2,1970-01-01,Cobb (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Cobb%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,15,42
+405,519,2,1970-01-01,"Treasure of the Sierra Madre, The (1948)",1948-01-01,0.0,"http://us.imdb.com/M/title-exact?Treasure%20of%20the%20Sierra%20Madre,%20The%20(1948)",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80,328
+405,710,4,1970-01-01,Better Off Dead... (1985),1985-01-01,0.0,http://us.imdb.com/Title?Better+Off+Dead...+(1985),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,79,282
+405,707,1,1970-01-01,Enchanted April (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?Enchanted%20April%20(1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,70,275
+405,1184,1,1970-01-01,"Endless Summer 2, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Endless%20Summer%202,%20The%20(1994)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,10,25
+405,1265,2,1970-01-01,Star Maps (1997),1997-01-01,0.0,http://us.imdb.com/M/title-exact?Star+Maps+(1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,19,58
+405,1239,1,1970-01-01,Cutthroat Island (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Cutthroat%20Island%20(1995),0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18,44
+405,1522,1,1970-01-01,Trial by Jury (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Trial%20by%20Jury%20(1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,17
+405,956,2,1970-01-01,Nobody's Fool (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Nobody's%20Fool%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,46,166
+405,555,1,1970-01-01,White Man's Burden (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?White%20Man's%20Burden%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,20
+405,1104,1,1970-01-01,C'est arrivé près de chez vous (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?C%27est%20arriv%E9%20pr%E8s%20de%20chez%20vous%20%281992%29,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,4,12
+405,183,1,1970-01-01,Alien (1979),1979-01-01,0.0,http://us.imdb.com/M/title-exact?Alien%20(1979),0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,291,1174
+405,141,2,1970-01-01,"20,000 Leagues Under the Sea (1954)",1954-01-01,0.0,"http://us.imdb.com/M/title-exact?20,000%20Leagues%20Under%20the%20Sea%20(1954)",0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,72,252
+405,528,1,1970-01-01,"Killing Fields, The (1984)",1984-01-01,0.0,"http://us.imdb.com/M/title-exact?Killing%20Fields,%20The%20(1984)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,121,500
+405,556,1,1970-01-01,Wild Bill (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Wild%20Bill%20(1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,30
+405,1539,1,1970-01-01,Being Human (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Being%20Human%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,7
+405,1444,2,1970-01-01,That Darn Cat! (1965),1965-01-01,0.0,http://us.imdb.com/Title?That+Darn+Cat%21+(1965),0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,19,47
+405,1179,1,1970-01-01,Man of the House (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Man%20of%20the%20House%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9,19
+405,1231,1,1970-01-01,Marked for Death (1990),1990-01-01,0.0,http://us.imdb.com/M/title-exact?Marked%20for%20Death%20(1990),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,22,55
+405,1042,1,1970-01-01,Just Cause (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Just%20Cause%20(1995),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,28,88
+405,265,2,1970-01-01,"Hunt for Red October, The (1990)",1990-01-01,0.0,http://us.imdb.com/M/title-exact?Hunt+for+Red+October%2C+The+(1990),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,227,877
+405,1585,1,1970-01-01,American Dream (1990),1990-01-01,0.0,http://us.imdb.com/M/title-exact?American%20Dream%20(1990),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,5
+405,68,1,1970-01-01,"Crow, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Crow,%20The%20(1994)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,134,458
+405,1209,3,1970-01-01,Mixed Nuts (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Mixed%20Nuts%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,15,38
+405,427,5,1970-01-01,To Kill a Mockingbird (1962),1962-01-01,0.0,http://us.imdb.com/M/title-exact?To%20Kill%20a%20Mockingbird%20(1962),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,219,940
+405,1422,1,1970-01-01,Suture (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Suture%20(1993),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,4,9
+405,421,1,1970-01-01,William Shakespeare's Romeo and Juliet (1996),1996-10-25,0.0,http://us.imdb.com/Title?Romeo+%2B+Juliet+(1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,106,381
+405,1518,2,1970-01-01,Losing Isaiah (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Losing%20Isaiah%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12,36
+405,397,4,1970-01-01,Striking Distance (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Striking%20Distance%20(1993),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,31
+405,1442,1,1970-01-01,"Scarlet Letter, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Scarlet%20Letter,%20The%20(1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,12
+405,504,2,1970-01-01,Bonnie and Clyde (1967),1967-01-01,0.0,http://us.imdb.com/M/title-exact?Bonnie%20and%20Clyde%20(1967),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,122,466
+405,651,5,1970-01-01,Glory (1989),1989-01-01,0.0,http://us.imdb.com/M/title-exact?Glory%20(1989),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,171,697
+405,904,1,1970-01-01,Ma vie en rose (My Life in Pink) (1997),1997-12-26,0.0,http://us.imdb.com/M/title-exact?imdb-title-119590,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,20,69
+405,606,3,1970-01-01,All About Eve (1950),1950-01-01,0.0,http://us.imdb.com/M/title-exact?All%20About%20Eve%20(1950),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,66,267
+405,1470,2,1970-01-01,Gumby: The Movie (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Gumby:%20The%20Movie%20(1995),0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,13
+405,1478,1,1970-01-01,Dead Presidents (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Dead%20Presidents%20(1995),0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,18,49
+405,184,1,1970-01-01,Army of Darkness (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Army%20of%20Darkness%20(1993),0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,116,398
+405,1193,1,1970-01-01,Before the Rain (Pred dozhdot) (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Pred%20dozhdot%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,38
+405,1560,1,1970-01-01,Clean Slate (Coup de Torchon) (1981),1981-01-01,0.0,http://us.imdb.com/M/title-exact?Coup%20de%20torchon%20(1981),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,11
+405,1206,1,1970-01-01,Amos & Andrew (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Amos%20&%20Andrew%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,19,51
+405,802,1,1970-01-01,Hard Target (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Hard%20Target%20(1993),0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,40,108
+405,1471,1,1970-01-01,Hideaway (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Hideaway%20(1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9,22
+405,939,5,1970-01-01,Murder in the First (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Murder%20in%20the%20First%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,60,216
+405,1063,5,1970-01-01,"Little Princess, A (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Little%20Princess,%20A%20(1995)",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,41,150
+405,537,1,1970-01-01,My Own Private Idaho (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?My+Own+Private+Idaho+(1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,109
+405,520,2,1970-01-01,"Great Escape, The (1963)",1963-01-01,0.0,"http://us.imdb.com/M/title-exact?Great%20Escape,%20The%20(1963)",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,124,509
+405,1553,1,1970-01-01,"Underneath, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Underneath,%20The%20(1995)",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,4,11
+405,1517,1,1970-01-01,Race the Sun (1996),1996-01-01,0.0,http://us.imdb.com/M/title-exact?Race%20the%20Sun%20(1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,14
+405,199,1,1970-01-01,"Bridge on the River Kwai, The (1957)",1957-01-01,0.0,"http://us.imdb.com/M/title-exact?Bridge%20on%20the%20River%20Kwai,%20The%20(1957)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,165,689
+405,1559,1,1970-01-01,Hostile Intentions (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Hostile%20Intentions%20(1994),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1
+405,1032,1,1970-01-01,Little Big League (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Little%20Big%20League%20(1994),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,16,46
+405,415,2,1970-01-01,"Apple Dumpling Gang, The (1975)",1975-01-01,0.0,"http://us.imdb.com/M/title-exact?Apple%20Dumpling%20Gang,%20The%20(1975)",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,25,71
+405,645,1,1970-01-01,Paris Is Burning (1990),1990-01-01,0.0,http://us.imdb.com/M/title-exact?Paris%20Is%20Burning%20(1990),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,27,103
+405,461,3,1970-01-01,Smoke (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Smoke%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,74,268
+405,807,1,1970-01-01,Poetic Justice (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Poetic%20Justice%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9,25
+405,82,4,1970-01-01,Jurassic Park (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Jurassic%20Park%20(1993),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,261,971
+405,779,1,1970-01-01,Drop Zone (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Drop%20Zone%20(1994),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,79
+405,1146,2,1970-01-01,Calendar Girl (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Calendar%20Girl%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,6
+405,403,5,1970-01-01,Batman (1989),1989-01-01,0.0,http://us.imdb.com/M/title-exact?Batman%20(1989),0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,201,689
+405,509,1,1970-01-01,My Left Foot (1989),1989-01-01,0.0,http://us.imdb.com/M/title-exact?My%20Left%20Foot%20(1989),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,121,466
+405,22,5,1970-01-01,Braveheart (1995),1996-02-16,0.0,http://us.imdb.com/M/title-exact?Braveheart%20(1995),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,297,1233
+405,1404,1,1970-01-01,Withnail and I (1987),1987-01-01,0.0,http://us.imdb.com/M/title-exact?Withnail%20and%20I%20(1987),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13,42
+405,5,4,1970-01-01,Copycat (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Copycat%20(1995),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,86,284
+405,1484,1,1970-01-01,"Jerky Boys, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Jerky%20Boys,%20The%20(1994)",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8
+405,1031,1,1970-01-01,Lassie (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Lassie%20(1994),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,16
+405,94,5,1970-01-01,Home Alone (1990),1990-01-01,0.0,http://us.imdb.com/M/title-exact?Home%20Alone%20(1990),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,137,423
+405,1576,1,1970-01-01,"Hungarian Fairy Tale, A (1987)",1987-01-01,0.0,"http://us.imdb.com/M/title-exact?Hol%20volt,%20hol%20nem%20volt%20(1987)",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+405,1437,1,1970-01-01,House Party 3 (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?House%20Party%203%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9,18
+405,739,2,1970-01-01,Pretty Woman (1990),1990-01-01,0.0,http://us.imdb.com/M/title-exact?Pretty%20Woman%20(1990),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,164,545
+405,586,4,1970-01-01,Terminal Velocity (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Terminal%20Velocity%20(1994),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,91
+405,200,2,1970-01-01,"Shining, The (1980)",1980-01-01,0.0,"http://us.imdb.com/M/title-exact?Shining,%20The%20(1980)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,206,788
+405,1078,1,1970-01-01,Oliver & Company (1988),1988-03-29,0.0,http://us.imdb.com/M/title-exact?Oliver%20&%20Company%20(1988),0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,61
+405,364,1,1970-01-01,Ace Ventura: When Nature Calls (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Ace%20Ventura:%20When%20Nature%20Calls%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,37,99
+405,391,1,1970-01-01,Last Action Hero (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Last%20Action%20Hero%20(1993),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,59,162
+405,376,5,1970-01-01,Houseguest (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Houseguest%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,24,68
+405,786,1,1970-01-01,"Perez Family, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Perez%20Family,%20The%20(1995)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,14,37
+405,515,1,1970-01-01,"Boot, Das (1981)",1997-04-04,0.0,"http://us.imdb.com/M/title-exact?Boot,%20Das%20(1981)",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,201,845
+405,132,5,1970-01-01,"Wizard of Oz, The (1939)",1939-01-01,0.0,"http://us.imdb.com/M/title-exact?Wizard%20of%20Oz,%20The%20(1939)",0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,246,1003
+405,1249,1,1970-01-01,For Love or Money (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?For%20Love%20or%20Money%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,12,34
+405,562,1,1970-01-01,"Quick and the Dead, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Quick%20and%20the%20Dead,%20The%20(1995)",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,48,154
+405,215,5,1970-01-01,Field of Dreams (1989),1989-01-01,0.0,http://us.imdb.com/M/title-exact?Field%20of%20Dreams%20(1989),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,212,784
+405,63,3,1970-01-01,"Santa Clause, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Santa%20Clause,%20The%20(1994)",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,82,254
+405,1569,1,1970-01-01,"Vie est belle, La (Life is Rosey) (1987)",1987-01-01,0.0,"http://us.imdb.com/M/title-exact?Vie%20est%20belle,%20La%20(1987)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+405,1568,1,1970-01-01,Vermont Is For Lovers (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Vermont%20Is%20For%20Lovers%20(1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1
+405,716,1,1970-01-01,Home for the Holidays (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Home%20for%20the%20Holidays%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,58,183
+405,383,1,1970-01-01,"Flintstones, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Flintstones,%20The%20(1994)",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,31,64
+405,388,4,1970-01-01,Beverly Hills Cop III (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Beverly%20Hills%20Cop%20III%20(1994),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,28,67
+405,1399,1,1970-01-01,Stranger in the House (1997),1997-01-01,0.0,http://us.imdb.com/M/title-exact?imdb-title-120222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,17
+405,798,1,1970-01-01,Bad Company (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Bad%20Company%20(1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,20
+405,1408,1,1970-01-01,Gordy (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Gordy%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+405,52,1,1970-01-01,"Madness of King George, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Madness%20of%20King%20George,%20The%20(1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,91,343
+405,233,1,1970-01-01,Under Siege (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Under%20Siege%20(1992),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,124,408
+405,1224,1,1970-01-01,"Scout, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Scout,%20The%20(1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12,32
+405,1359,1,1970-01-01,Boys in Venice (1996),1996-09-24,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2
+405,584,1,1970-01-01,"Secret Garden, The (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?Secret%20Garden,%20The%20(1993)",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,79,280
+405,195,5,1970-01-01,"Terminator, The (1984)",1984-01-01,0.0,"http://us.imdb.com/M/title-exact?Terminator,%20The%20(1984)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,301,1184
+405,234,5,1970-01-01,Jaws (1975),1975-01-01,0.0,http://us.imdb.com/M/title-exact?Jaws%20(1975),0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,280,1057
+405,219,5,1970-01-01,"Nightmare on Elm Street, A (1984)",1984-01-01,0.0,"http://us.imdb.com/M/title-exact?Nightmare%20on%20Elm%20Street,%20A%20(1984)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,111,352
+405,661,3,1970-01-01,High Noon (1952),1952-01-01,0.0,http://us.imdb.com/M/title-exact?High%20Noon%20(1952),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,88,361
+405,549,1,1970-01-01,Rob Roy (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Rob%20Roy%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,92,328
+405,523,2,1970-01-01,Cool Hand Luke (1967),1967-01-01,0.0,http://us.imdb.com/M/title-exact?Cool%20Hand%20Luke%20(1967),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,164,655
+405,585,1,1970-01-01,Son in Law (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Son%20in%20Law%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,39,97
+405,482,3,1970-01-01,Some Like It Hot (1959),1959-01-01,0.0,http://us.imdb.com/M/title-exact?Some%20Like%20It%20Hot%20(1959),0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,128,510
+405,347,4,1970-01-01,Wag the Dog (1997),1998-01-09,0.0,http://us.imdb.com/M/title-exact?imdb-title-120885,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,137,481
+405,58,1,1970-01-01,Quiz Show (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Quiz%20Show%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,175,638
+405,149,1,1970-01-01,Jude (1996),1996-11-01,0.0,http://us.imdb.com/M/title-exact?Jude%20(1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,23,69
+405,75,2,1970-01-01,Brother Minister: The Assassination of Malcolm X (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Brother%20Minister:%20The%20Assassination%20of%20Malcolm%20X%20(1994),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,15
+405,356,5,1970-01-01,"Client, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Client,%20The%20(1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,97,328
+405,810,1,1970-01-01,"Shadow, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Shadow,%20The%20(1994)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,130
+405,603,3,1970-01-01,Rear Window (1954),1954-01-01,0.0,http://us.imdb.com/M/title-exact?Rear%20Window%20(1954),0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,209,917
+405,1222,1,1970-01-01,Judgment Night (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Judgment%20Night%20(1993),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,67
+405,567,2,1970-01-01,Wes Craven's New Nightmare (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Wes%20Craven's%20New%20Nightmare%20(1994),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,35,98
+405,536,1,1970-01-01,Ponette (1996),1997-05-23,0.0,http://us.imdb.com/M/title-exact?Ponette%20%281996%29,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,33
+405,57,1,1970-01-01,Priest (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Priest%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,40,160
+405,379,1,1970-01-01,Tales From the Crypt Presents: Demon Knight (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Tales%20From%20the%20Crypt%20Presents:%20Demon%20Knight%20(1995),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,43,128
+405,1474,1,1970-01-01,Nina Takes a Lover (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Nina%20Takes%20a%20Lover%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,6,17
+405,712,1,1970-01-01,Tin Men (1987),1987-01-01,0.0,http://us.imdb.com/M/title-exact?Tin%20Men%20(1987),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,51,157
+405,1225,1,1970-01-01,Angus (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Angus%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,14,37
+405,1583,1,1970-01-01,"Invitation, The (Zaproszenie) (1986)",1986-01-01,0.0,http://us.imdb.com/M/title-exact?Zaproszenie%20(1986),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+405,577,3,1970-01-01,Coneheads (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Coneheads%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,41,91
+405,1053,5,1970-01-01,Now and Then (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Now%20and%20Then%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,24,83
+405,55,1,1970-01-01,"Professional, The (1994)",1994-01-01,0.0,http://us.imdb.com/Title?L%E9on+(1994),0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,149,552
+405,1468,1,1970-01-01,"Cure, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Cure,%20The%20(1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,20
+405,433,4,1970-01-01,Heathers (1989),1989-01-01,0.0,http://us.imdb.com/M/title-exact?Heathers%20(1989),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,171,631
+405,842,5,1970-01-01,Pollyanna (1960),1960-01-01,0.0,http://us.imdb.com/M/title-exact?Pollyanna%20(1960),0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,27,85
+405,1091,1,1970-01-01,Pete's Dragon (1977),1977-01-01,0.0,http://us.imdb.com/M/title-exact?Pete's%20Dragon%20(1977),0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,43,117
+405,83,1,1970-01-01,Much Ado About Nothing (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Much%20Ado%20About%20Nothing%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,176,715
+405,561,1,1970-01-01,Mary Shelley's Frankenstein (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Mary%20Shelley's%20Frankenstein%20(1994),0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,59,181
+405,48,1,1970-01-01,Hoop Dreams (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Hoop%20Dreams%20(1994),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,117,479
+405,694,1,1970-01-01,Persuasion (1995),1995-09-25,0.0,http://us.imdb.com/Title?Persuasion+(1995/I),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,44,178
+405,1072,1,1970-01-01,"Pyromaniac's Love Story, A (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Pyromaniac's%20Love%20Story,%20A%20(1995)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,7,17
+405,1037,3,1970-01-01,Grease 2 (1982),1982-01-01,0.0,http://us.imdb.com/M/title-exact?Grease%202%20(1982),0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,24,48
+405,944,3,1970-01-01,Renaissance Man (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Renaissance%20Man%20(1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,43,129
+405,204,5,1970-01-01,Back to the Future (1985),1985-01-01,0.0,http://us.imdb.com/M/title-exact?Back%20to%20the%20Future%20(1985),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,350,1342
+405,201,1,1970-01-01,Evil Dead II (1987),1987-01-01,0.0,http://us.imdb.com/M/title-exact?Evil%20Dead%20II%20(1987),0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,89,313
+405,1438,1,1970-01-01,Panther (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Panther%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,12
+405,553,1,1970-01-01,"Walk in the Clouds, A (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Walk%20in%20the%20Clouds,%20A%20(1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,63,207
+405,1030,1,1970-01-01,"Beverly Hillbillies, The (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?Beverly%20Hillbillies,%20The%20(1993)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,20,45
+405,558,1,1970-01-01,Heavenly Creatures (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Heavenly%20Creatures%20(1994),0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,70,257
+405,1394,1,1970-01-01,Swept from the Sea (1997),1997-01-01,0.0,http://us.imdb.com/M/title-exact?Swept+from+the+Sea+(1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,17
+405,516,1,1970-01-01,Local Hero (1983),1983-01-01,0.0,http://us.imdb.com/M/title-exact?Local%20Hero%20(1983),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,63,250
+405,849,1,1970-01-01,Days of Thunder (1990),1990-01-01,0.0,http://us.imdb.com/M/title-exact?Days%20of%20Thunder%20(1990),0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,53,144
+405,774,1,1970-01-01,"Prophecy, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Prophecy,%20The%20(1995)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,32,94
+405,97,2,1970-01-01,Dances with Wolves (1990),1990-01-01,0.0,http://us.imdb.com/M/title-exact?Dances%20with%20Wolves%20(1990),0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,256,971
+405,853,1,1970-01-01,Braindead (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Braindead%20(1992),0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,14,54
+405,23,5,1970-01-01,Taxi Driver (1976),1996-02-16,0.0,http://us.imdb.com/M/title-exact?Taxi%20Driver%20(1976),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,182,750
+405,1570,1,1970-01-01,Quartier Mozart (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Quartier%20Mozart%20(1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+405,697,1,1970-01-01,"Basketball Diaries, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Basketball%20Diaries,%20The%20(1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,40,137
+405,808,1,1970-01-01,"Program, The (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?Program,%20The%20(1993)",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,31,88
+405,783,2,1970-01-01,Milk Money (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Milk%20Money%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,37,101
+405,1232,1,1970-01-01,Madonna: Truth or Dare (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?Madonna:%20Truth%20or%20Dare%20(1991),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,17,42
+405,679,1,1970-01-01,Conan the Barbarian (1981),1981-01-01,0.0,http://us.imdb.com/M/title-exact?Conan+the+Barbarian+(1981),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,107,326
+405,642,1,1970-01-01,"Grifters, The (1990)",1990-01-01,0.0,"http://us.imdb.com/M/title-exact?Grifters,%20The%20(1990)",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,89,310
+405,37,1,1970-01-01,Nadja (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Nadja%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8,18
+405,843,2,1970-01-01,"Shaggy Dog, The (1959)",1959-01-01,0.0,"http://us.imdb.com/M/title-exact?Shaggy%20Dog,%20The%20(1959)",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,30,90
+405,447,4,1970-01-01,Carrie (1976),1976-01-01,0.0,http://us.imdb.com/M/title-exact?Carrie%20(1976),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,121,424
+405,666,1,1970-01-01,Blood For Dracula (Andy Warhol's Dracula) (1974),1974-01-01,0.0,http://us.imdb.com/M/title-exact?Andy%20Warhol's%20Dracula%20(1974),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5,12
+405,193,4,1970-01-01,"Right Stuff, The (1983)",1983-01-01,0.0,"http://us.imdb.com/M/title-exact?Right%20Stuff,%20The%20(1983)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,157,615
+405,8,4,1970-01-01,Babe (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Babe%20(1995),0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,219,875
+405,1103,2,1970-01-01,Trust (1990),1990-01-01,0.0,http://us.imdb.com/Title?Trust+(1990),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,19,72
+405,1070,1,1970-01-01,Living in Oblivion (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Living%20in%20Oblivion%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,27,101
+405,684,3,1970-01-01,In the Line of Fire (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?In%20the%20Line%20of%20Fire%20(1993),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,169,641
+405,1219,1,1970-01-01,"Goofy Movie, A (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Goofy%20Movie,%20A%20(1995)",0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,20,58
+405,784,1,1970-01-01,Beyond Bedlam (1993),1993-01-01,0.0,http://us.imdb.com/Title?Beyond+Bedlam+(1993),0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,2
+405,1044,4,1970-01-01,"Paper, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Paper,%20The%20(1994)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,40,129
+405,480,4,1970-01-01,North by Northwest (1959),1959-01-01,0.0,http://us.imdb.com/M/title-exact?North%20by%20Northwest%20(1959),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,179,767
+405,12,5,1970-01-01,"Usual Suspects, The (1995)",1995-08-14,0.0,"http://us.imdb.com/M/title-exact?Usual%20Suspects,%20The%20(1995)",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,267,1171
+405,790,1,1970-01-01,Tommy Boy (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Tommy%20Boy%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,66,192
+405,101,1,1970-01-01,Heavy Metal (1981),1981-03-08,0.0,http://us.imdb.com/M/title-exact?Heavy%20Metal%20(1981),0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,73,238
+405,448,4,1970-01-01,"Omen, The (1976)",1976-01-01,0.0,"http://us.imdb.com/M/title-exact?Omen,%20The%20(1976)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,85,288
+405,1271,2,1970-01-01,North (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?North%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,19
+405,143,5,1970-01-01,"Sound of Music, The (1965)",1965-01-01,0.0,"http://us.imdb.com/M/title-exact?Sound%20of%20Music,%20The%20(1965)",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,222,836
+405,1036,1,1970-01-01,Drop Dead Fred (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?Drop%20Dead%20Fred%20(1991),0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,24,66
+405,1415,1,1970-01-01,"Next Karate Kid, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Next%20Karate%20Kid,%20The%20(1994)",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,22
+405,1405,1,1970-01-01,Boy's Life 2 (1997),1997-03-07,0.0,http://us.imdb.com/M/title-exact?Boy%27s%20Life%202%20(1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,20
+405,81,3,1970-01-01,"Hudsucker Proxy, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Hudsucker%20Proxy,%20The%20(1994)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,110,391
+405,859,1,1970-01-01,April Fool's Day (1986),1986-01-01,0.0,http://us.imdb.com/M/title-exact?April%20Fool's%20Day%20(1986),0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,15,40
+405,960,1,1970-01-01,Naked (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Naked%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,25,81
+405,1407,1,1970-01-01,"Specialist, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Specialist,%20The%20(1994)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,45
+405,736,5,1970-01-01,Shadowlands (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Shadowlands%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,78,307
+405,464,1,1970-01-01,Vanya on 42nd Street (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Vanya%20on%2042nd%20Street%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,27,97
+405,238,5,1970-01-01,Raising Arizona (1987),1987-01-01,0.0,http://us.imdb.com/M/title-exact?Raising%20Arizona%20(1987),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,256,992
+405,1107,1,1970-01-01,Beyond Rangoon (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Beyond%20Rangoon%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,18,55
+405,377,1,1970-01-01,Heavyweights (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Heavyweights%20(1994),0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13,28
+405,1572,1,1970-01-01,Wend Kuuni (God's Gift) (1982),1982-01-01,0.0,http://us.imdb.com/M/title-exact?Wend%20Kuuni%20(1982),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+405,1218,5,1970-01-01,Friday (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Friday%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,26,90
+405,770,1,1970-01-01,Devil in a Blue Dress (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Devil%20in%20a%20Blue%20Dress%20(1995),0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,57,193
+405,851,1,1970-01-01,Two or Three Things I Know About Her (1966),1966-01-01,0.0,http://us.imdb.com/M/title-exact?Deux%20ou%20trois%20choses%20que%20je%20sais%20d'elle%20(1966),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,15
+405,1441,1,1970-01-01,Moonlight and Valentino (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Moonlight%20and%20Valentino%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,7,18
+405,438,1,1970-01-01,Amityville 3-D (1983),1983-01-01,0.0,http://us.imdb.com/M/title-exact?Amityville%203-D%20(1983),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,7
+405,659,4,1970-01-01,Arsenic and Old Lace (1944),1944-01-01,0.0,http://us.imdb.com/M/title-exact?Arsenic%20and%20Old%20Lace%20(1944),0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,115,469
+405,1147,2,1970-01-01,My Family (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?My%20Family%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,21,77
+405,745,1,1970-01-01,"Ruling Class, The (1972)",1972-01-01,0.0,"http://us.imdb.com/M/title-exact?Ruling%20Class,%20The%20(1972)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,16,62
+405,45,1,1970-01-01,Eat Drink Man Woman (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Yinshi%20Nan%20Nu%20(1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,80,324
+405,351,1,1970-01-01,"Prophecy II, The (1998)",1998-01-16,0.0,http://us.imdb.com/M/title-exact?imdb-title-119959,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,20,54
+405,794,5,1970-01-01,It Could Happen to You (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?It%20Could%20Happen%20to%20You%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,46,168
+405,317,4,1970-01-01,In the Name of the Father (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?In%20the%20Name%20of%20the%20Father%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,102,399
+405,563,1,1970-01-01,Stephen King's The Langoliers (1995),1995-01-01,0.0,"http://us.imdb.com/M/title-exact?%22Langoliers,%20The%22%20(1995)%20(mini)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,29,70
+405,441,1,1970-01-01,"Amityville Horror, The (1979)",1979-01-01,0.0,"http://us.imdb.com/M/title-exact?Amityville%20Horror,%20The%20(1979)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,53,136
+405,61,1,1970-01-01,Three Colors: White (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Trzy%20kolory:%20Bialy%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,59,228
+405,1548,1,1970-01-01,The Courtyard (1995),1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Courtyard,%20The%20(1995)%20(TV)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+405,439,1,1970-01-01,Amityville: A New Generation (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Amityville:%20A%20New%20Generation%20(1993),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5,5
+405,674,1,1970-01-01,Cat People (1982),1982-01-01,0.0,http://us.imdb.com/M/title-exact?Cat%20People%20(1982),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,48,139
+405,91,2,1970-01-01,"Nightmare Before Christmas, The (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?Nightmare%20Before%20Christmas,%20The%20(1993)",0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,143,513
+405,1297,1,1970-01-01,Love Affair (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Love%20Affair%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,12,34
+405,173,5,1970-01-01,"Princess Bride, The (1987)",1987-01-01,0.0,"http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)",0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,324,1352
+405,420,5,1970-01-01,Alice in Wonderland (1951),1951-01-01,0.0,http://us.imdb.com/M/title-exact?Alice%20in%20Wonderland%20(1951),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,81,297
+405,1499,1,1970-01-01,Grosse Fatigue (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Grosse%20fatigue%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,13
+405,955,1,1970-01-01,Before Sunrise (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Before%20Sunrise%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,49,167
+405,1195,1,1970-01-01,Strawberry and Chocolate (Fresa y chocolate) (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Fresa%20y%20chocolate%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11,36
+405,367,1,1970-01-01,Clueless (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Clueless%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,170,588
+405,564,1,1970-01-01,Tales from the Hood (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Tales%20from%20the%20Hood%20(1995),0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,27,55
+405,402,3,1970-01-01,Ghost (1990),1990-01-01,0.0,http://us.imdb.com/M/title-exact?Ghost%20(1990),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,170,589
+405,566,1,1970-01-01,Clear and Present Danger (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Clear%20and%20Present%20Danger%20(1994),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,179,639
+405,1229,1,1970-01-01,Poison Ivy II (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Poison%20Ivy%20II%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,13,28
+405,218,5,1970-01-01,Cape Fear (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?Cape%20Fear%20(1991),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,171,591
+405,1065,1,1970-01-01,Koyaanisqatsi (1983),1983-01-01,0.0,http://us.imdb.com/M/title-exact?Koyaanisqatsi%20(1983),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,53,185
+405,816,1,1970-01-01,Candyman: Farewell to the Flesh (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Candyman:%20Farewell%20to%20the%20Flesh%20(1995),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,21,51
+405,1228,1,1970-01-01,Under Siege 2: Dark Territory (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Under%20Siege%202:%20Dark%20Territory%20(1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,118
+405,782,1,1970-01-01,Little Odessa (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Little%20Odessa%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,26
+405,139,3,1970-01-01,"Love Bug, The (1969)",1969-01-01,0.0,"http://us.imdb.com/M/title-exact?Love%20Bug,%20The%20(1969)",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,50,139
+405,208,5,1970-01-01,Young Frankenstein (1974),1974-01-01,0.0,http://us.imdb.com/M/title-exact?Young%20Frankenstein%20(1974),0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,200,789
+405,434,3,1970-01-01,Forbidden Planet (1956),1956-01-01,0.0,http://us.imdb.com/M/title-exact?Forbidden%20Planet%20(1956),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,67,257
+405,180,3,1970-01-01,Apocalypse Now (1979),1979-01-01,0.0,http://us.imdb.com/M/title-exact?Apocalypse%20Now%20(1979),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,221,894
+405,80,1,1970-01-01,Hot Shots! Part Deux (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Hot%20Shots!%20Part%20Deux%20(1993),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,68,188
+405,384,3,1970-01-01,Naked Gun 33 1/3: The Final Insult (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Naked%20Gun%2033%201/3:%20The%20Final%20Insult%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,69,192
+405,64,5,1970-01-01,"Shawshank Redemption, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Shawshank%20Redemption,%20The%20(1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,283,1258
+405,715,1,1970-01-01,To Die For (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?To%20Die%20For%20(1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,87,285
+405,675,1,1970-01-01,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",1922-01-01,0.0,"http://us.imdb.com/M/title-exact?Nosferatu,%20eine%20Symphonie%20des%20Grauens%20(1922)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,54,192
+405,921,1,1970-01-01,Farewell My Concubine (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Ba%20Wang%20Bie%20Ji%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,46,183
+405,42,1,1970-01-01,Clerks (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Clerks%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,148,563
+405,231,3,1970-01-01,Batman Returns (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Batman%20Returns%20(1992),0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,142,381
+405,728,4,1970-01-01,Junior (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Junior%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,45,136
+405,29,4,1970-01-01,Batman Forever (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Batman%20Forever%20(1995),0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,114,304
+405,1021,1,1970-01-01,8 1/2 (1963),1963-01-01,0.0,http://us.imdb.com/M/title-exact?8%201/2%20(1963),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,38,145
+405,43,1,1970-01-01,Disclosure (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Disclosure%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,40,120
+405,71,1,1970-01-01,"Lion King, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Lion%20King,%20The%20(1994)",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,220,832
+405,1261,1,1970-01-01,"Run of the Country, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Run%20of%20the%20Country,%20The%20(1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,13
+405,662,1,1970-01-01,Somewhere in Time (1980),1980-01-01,0.0,http://us.imdb.com/M/title-exact?Somewhere%20in%20Time%20(1980),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,82,281
+405,518,1,1970-01-01,Miller's Crossing (1990),1990-01-01,0.0,http://us.imdb.com/M/title-exact?Miller's%20Crossing%20(1990),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,89,325
+405,453,3,1970-01-01,Jaws 3-D (1983),1983-01-01,0.0,http://us.imdb.com/M/title-exact?Jaws%203-D%20(1983),0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,16,31
+405,1509,1,1970-01-01,Getting Even with Dad (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Getting%20Even%20with%20Dad%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,8
+405,102,1,1970-01-01,"Aristocats, The (1970)",1970-01-01,0.0,"http://us.imdb.com/M/title-exact?Aristocats,%20The%20(1970)",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,169
+405,943,1,1970-01-01,Killing Zoe (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Killing%20Zoe%20(1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,40,139
+405,626,1,1970-01-01,So Dear to My Heart (1949),1949-01-01,0.0,http://us.imdb.com/Title?So+Dear+to+My+Heart+(1949),0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,13
+405,951,1,1970-01-01,"Indian in the Cupboard, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Indian%20in%20the%20Cupboard,%20The%20(1995)",0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,39,110
+405,708,1,1970-01-01,"Sex, Lies, and Videotape (1989)",1989-01-01,0.0,"http://us.imdb.com/M/title-exact?sex,%20lies,%20and%20videotape%20(1989)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,101,351
+405,501,3,1970-01-01,Dumbo (1941),1941-01-01,0.0,http://us.imdb.com/M/title-exact?Dumbo%20(1941),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,123,430
+405,529,1,1970-01-01,My Life as a Dog (Mitt liv som hund) (1985),1985-01-01,0.0,http://us.imdb.com/M/title-exact?Mitt%20liv%20som%20hund%20(1985),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,93,370
+405,861,1,1970-01-01,Nosferatu a Venezia (1986),1986-01-01,0.0,http://us.imdb.com/M/title-exact?Nosferatu%20a%20Venezia%20(1986),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,7
+405,1581,1,1970-01-01,"Woman in Question, The (1950)",1950-01-01,0.0,"http://us.imdb.com/M/title-exact?Woman%20in%20Question,%20The%20(1950)",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+405,38,5,1970-01-01,"Net, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Net,%20The%20(1995)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,120,361
+405,288,5,1970-01-01,Scream (1996),1996-12-20,0.0,http://us.imdb.com/M/title-exact?Scream%20(1996),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,478,1645
+405,1584,1,1970-01-01,"Symphonie pastorale, La (1946)",1946-01-01,0.0,"http://us.imdb.com/M/title-exact?Symphonie%20pastorale,%20La%20(1946)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+405,855,1,1970-01-01,Diva (1981),1981-01-01,0.0,http://us.imdb.com/M/title-exact?Diva%20(1981),0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,66,246
+405,747,1,1970-01-01,Benny & Joon (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Benny%20&%20Joon%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,102,353
+405,1194,1,1970-01-01,Once Were Warriors (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Once%20Were%20Warriors%20(1994),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,31,126
+405,444,3,1970-01-01,"Blob, The (1958)",1958-01-01,0.0,"http://us.imdb.com/M/title-exact?Blob,%20The%20(1958)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,46,125
+405,60,1,1970-01-01,Three Colors: Blue (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Trzy%20kolory:%20Niebieski%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,64,257
+405,727,1,1970-01-01,Immortal Beloved (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Immortal%20Beloved%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,63,218
+405,545,1,1970-01-01,Vampire in Brooklyn (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Vampire%20in%20Brooklyn%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,12,22
+405,777,1,1970-01-01,Castle Freak (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Castle%20Freak%20(1995),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,5
+405,365,1,1970-01-01,Powder (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Powder%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,48,154
+405,202,4,1970-01-01,Groundhog Day (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Groundhog%20Day%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,280,1054
+405,858,1,1970-01-01,Amityville: Dollhouse (1996),1996-01-01,0.0,http://us.imdb.com/M/title-exact?Amityville:%20Dollhouse%20(1996),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3
+405,723,1,1970-01-01,Boys on the Side (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Boys%20on%20the%20Side%20(1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,34,107
+405,1387,2,1970-01-01,Fall (1997),1997-06-27,0.0,http://us.imdb.com/M/title-exact?Fall+(1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,6
+405,1035,1,1970-01-01,Cool Runnings (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Cool%20Runnings%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,68,215
+405,1073,1,1970-01-01,Shallow Grave (1994),1994-01-01,0.0,http://us.imdb.com/Title?Shallow+Grave+(1994),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,66,252
+405,32,1,1970-01-01,Crumb (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Crumb%20(1994),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,81,307
+405,1305,1,1970-01-01,National Lampoon's Senior Trip (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?National%20Lampoon's%20Senior%20Trip%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,17
+405,731,3,1970-01-01,"Corrina, Corrina (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Corrina,%20Corrina%20(1994)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,39,123
+405,860,1,1970-01-01,"Believers, The (1987)",1987-01-01,0.0,"http://us.imdb.com/M/title-exact?Believers,%20The%20(1987)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,16,36
+405,543,1,1970-01-01,"Misérables, Les (1995)",1995-01-01,0.0,http://us.imdb.com/M/title-exact?Mis%E9rables%2C%20Les%20%281995%29,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,21,76
+405,33,1,1970-01-01,Desperado (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Desperado%20(1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,97,335
+405,854,1,1970-01-01,Bad Taste (1987),1987-01-01,0.0,http://us.imdb.com/M/title-exact?Bad%20Taste%20(1987),0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,16,54
+405,1062,1,1970-01-01,Four Days in September (1997),1998-01-23,0.0,http://us.imdb.com/M/title-exact?imdb-title-119815,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12,45
+405,47,5,1970-01-01,Ed Wood (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Ed%20Wood%20(1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,133,479
+405,446,1,1970-01-01,Burnt Offerings (1976),1976-01-01,0.0,http://us.imdb.com/M/title-exact?Burnt%20Offerings%20(1976),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,9,22
+405,198,2,1970-01-01,Nikita (La Femme Nikita) (1990),1990-01-01,0.0,http://us.imdb.com/M/title-exact?Nikita%20(1990),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,127,509
+405,526,1,1970-01-01,Ben-Hur (1959),1959-01-01,0.0,http://us.imdb.com/M/title-exact?Ben-Hur%20(1959),0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,124,475
+405,417,2,1970-01-01,"Parent Trap, The (1961)",1961-01-01,0.0,"http://us.imdb.com/M/title-exact?Parent%20Trap,%20The%20(1961)",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,73,226
+405,1311,1,1970-01-01,Waiting to Exhale (1995),1996-01-15,0.0,http://us.imdb.com/M/title-exact?Waiting%20to%20Exhale%20(1995),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,16,40
+405,161,1,1970-01-01,Top Gun (1986),1986-01-01,0.0,http://us.imdb.com/M/title-exact?Top%20Gun%20(1986),0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,220,766
+405,229,1,1970-01-01,Star Trek III: The Search for Spock (1984),1984-01-01,0.0,http://us.imdb.com/M/title-exact?Star%20Trek%20III:%20The%20Search%20for%20Spock%20(1984),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,171,532
+405,168,1,1970-01-01,Monty Python and the Holy Grail (1974),1974-01-01,0.0,http://us.imdb.com/M/title-exact?Monty%20Python%20and%20the%20Holy%20Grail%20(1974),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,316,1285
+405,755,2,1970-01-01,Jumanji (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Jumanji%20(1995),0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,96,318
+405,1076,2,1970-01-01,"Pagemaster, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Pagemaster,%20The%20(1994)",0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,12,27
+405,746,1,1970-01-01,Real Genius (1985),1985-01-01,0.0,http://us.imdb.com/M/title-exact?Real%20Genius%20(1985),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,119,436
+405,568,4,1970-01-01,Speed (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Speed%20(1994/I),0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,230,839
+405,942,1,1970-01-01,What's Love Got to Do with It (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?What's%20Love%20Got%20to%20Do%20with%20It%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,45,157
+405,571,5,1970-01-01,Another Stakeout (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Another%20Stakeout%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,28,70
+405,381,1,1970-01-01,Muriel's Wedding (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Muriel's%20Wedding%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,100,355
+405,44,1,1970-01-01,Dolores Claiborne (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Dolores%20Claiborne%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,79,264
+405,1577,1,1970-01-01,"Death in the Garden (Mort en ce jardin, La) (1956)",1956-01-01,0.0,"http://us.imdb.com/Title?Mort+en+ce+jardin,+La+(1956)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+405,4,4,1970-01-01,Get Shorty (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Get%20Shorty%20(1995),0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,209,742
+405,1019,1,1970-01-01,"Die xue shuang xiong (Killer, The) (1989)",1989-01-01,0.0,http://us.imdb.com/M/title-exact?Die%20xue%20shuang%20xiong%20(1989),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,31,123
+405,205,3,1970-01-01,Patton (1970),1970-01-01,0.0,http://us.imdb.com/M/title-exact?Patton%20(1970),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,136,543
+405,646,2,1970-01-01,Once Upon a Time in the West (1969),1969-01-01,0.0,http://us.imdb.com/M/title-exact?C'era%20una%20volta%20il%20west%20(1969),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,38,147
+405,436,1,1970-01-01,"American Werewolf in London, An (1981)",1981-01-01,0.0,"http://us.imdb.com/M/title-exact?American%20Werewolf%20in%20London,%20An%20(1981)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,99,350
+405,36,2,1970-01-01,Mad Love (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Mad%20Love%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,13,28
+405,65,1,1970-01-01,What's Eating Gilbert Grape (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?What's%20Eating%20Gilbert%20Grape%20(1993),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,115,407
+405,187,5,1970-01-01,"Godfather: Part II, The (1974)",1974-01-01,0.0,"http://us.imdb.com/M/title-exact?Godfather:%20Part%20II,%20The%20(1974)",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,209,875
+405,1334,1,1970-01-01,Somebody to Love (1994),1996-06-14,0.0,http://us.imdb.com/Title?Somebody+to+Love+(1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2
+405,418,5,1970-01-01,Cinderella (1950),1950-01-01,0.0,http://us.imdb.com/M/title-exact?Cinderella%20(1950),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,129,462
+405,1540,2,1970-01-01,"Amazing Panda Adventure, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Amazing%20Panda%20Adventure,%20The%20(1995)",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,28
+405,735,5,1970-01-01,Philadelphia (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Philadelphia%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,137,528
+405,203,1,1970-01-01,Unforgiven (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Unforgiven%20(1992),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,182,704
+405,781,5,1970-01-01,French Kiss (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?French%20Kiss%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,84,280
+405,392,5,1970-01-01,"Man Without a Face, The (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?Man%20Without%20a%20Face,%20The%20(1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,68,241
+405,1006,1,1970-01-01,Until the End of the World (Bis ans Ende der Welt) (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?Bis%20ans%20Ende%20der%20Welt%20(1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,23,65
+405,1487,1,1970-01-01,Even Cowgirls Get the Blues (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Even%20Cowgirls%20Get%20the%20Blues%20(1993),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,5,10
+405,1055,3,1970-01-01,"Simple Twist of Fate, A (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Simple%20Twist%20of%20Fate,%20A%20(1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,32
+405,380,2,1970-01-01,Star Trek: Generations (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Star%20Trek:%20Generations%20(1994),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,116,387
+405,1551,1,1970-01-01,"Glass Shield, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Glass%20Shield,%20The%20(1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,4
+405,373,2,1970-01-01,Judge Dredd (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Judge%20Dredd%20(1995),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,39,113
+405,140,3,1970-01-01,Homeward Bound: The Incredible Journey (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Homeward%20Bound:%20The%20Incredible%20Journey%20(1993),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,196
+405,59,1,1970-01-01,Three Colors: Red (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Trzy%20kolory:%20Czerwony%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,83,337
+405,26,3,1970-01-01,"Brothers McMullen, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Brothers%20McMullen,%20The%20(1995)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,73,252
+405,1041,5,1970-01-01,Forget Paris (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Forget%20Paris%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,62,198
+405,209,3,1970-01-01,This Is Spinal Tap (1984),1984-01-01,0.0,http://us.imdb.com/M/title-exact?This%20Is%20Spinal%20Tap%20(1984),0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,191,746
+405,856,1,1970-01-01,Night on Earth (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?Night%20on%20Earth%20(1991),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,36,138
+405,241,1,1970-01-01,"Last of the Mohicans, The (1992)",1992-01-01,0.0,"http://us.imdb.com/M/title-exact?Last%20of%20the%20Mohicans,%20The%20(1992)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,128,454
+405,99,5,1970-01-01,Snow White and the Seven Dwarfs (1937),1937-01-01,0.0,http://us.imdb.com/M/title-exact?Snow%20White%20and%20the%20Seven%20Dwarfs%20(1937),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,172,638
+405,1556,1,1970-01-01,Condition Red (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Condition%20Red%20(1995),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,2,4
+405,737,1,1970-01-01,Sirens (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Sirens%20(1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,59,176
+405,1567,1,1970-01-01,Careful (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Careful%20(1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+405,970,1,1970-01-01,Hear My Song (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?Hear%20My%20Song%20(1991),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8,26
+405,1308,1,1970-01-01,Babyfever (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Babyfever%20(1994),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,2
+405,920,1,1970-01-01,Two Bits (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Two%20Bits%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,11
+405,1591,1,1970-01-01,Duoluo tianshi (1995),1998-01-21,0.0,http://us.imdb.com/M/title-exact?imdb-title-112913,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6,19
+405,923,2,1970-01-01,Raise the Red Lantern (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?Da%20Hong%20Deng%20Long%20Gao%20Gao%20Gua%20(1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,58,241
+405,1412,1,1970-01-01,Land Before Time III: The Time of the Great Giving (1995) (V),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Land%20Before%20Time%20III%3A%20The%20Time%20of%20the%20Great%20Giving%20%281995%29%20%28V%29,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,10
+405,425,2,1970-01-01,Bob Roberts (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Bob%20Roberts%20(1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,85,318
+405,182,1,1970-01-01,GoodFellas (1990),1990-01-01,0.0,http://us.imdb.com/M/title-exact?GoodFellas%20(1990),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,226,893
+405,357,5,1970-01-01,One Flew Over the Cuckoo's Nest (1975),1975-01-01,0.0,http://us.imdb.com/M/title-exact?One%20Flew%20Over%20the%20Cuckoo's%20Nest%20(1975),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,264,1133
+405,468,3,1970-01-01,Rudy (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Rudy%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,64,212
+405,698,1,1970-01-01,"Browning Version, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Browning%20Version,%20The%20(1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,30
+405,1546,1,1970-01-01,Shadows (Cienie) (1988),1988-01-01,0.0,http://us.imdb.com/M/title-exact?Cienie%20(1988),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+405,303,1,1970-01-01,Ulee's Gold (1997),1997-01-01,0.0,http://us.imdb.com/M/title-exact?Ulee%27s+Gold+(1997),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,134,494
+405,398,1,1970-01-01,Super Mario Bros. (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Super%20Mario%20Bros.%20(1993),0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,26,54
+405,54,2,1970-01-01,Outbreak (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Outbreak%20(1995),0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,104,337
+405,401,1,1970-01-01,"Brady Bunch Movie, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Brady%20Bunch%20Movie,%20The%20(1995)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,76,213
+405,512,1,1970-01-01,Wings of Desire (1987),1987-01-01,0.0,"http://us.imdb.com/Title?Himmel+%FCber+Berlin,+Der+(1987)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,57,228
+405,542,1,1970-01-01,Pocahontas (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Pocahontas%20(1995),0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,51,129
+405,429,5,1970-01-01,"Day the Earth Stood Still, The (1951)",1951-01-01,0.0,"http://us.imdb.com/M/title-exact?Day%20the%20Earth%20Stood%20Still,%20The%20(1951)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,97,382
+405,1552,1,1970-01-01,"Hunted, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Hunted,%20The%20(1995)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6
+405,703,2,1970-01-01,Widows' Peak (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Widows'%20Peak%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,19,68
+405,443,4,1970-01-01,"Birds, The (1963)",1963-01-01,0.0,"http://us.imdb.com/M/title-exact?Birds,%20The%20(1963)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,162,617
+405,1564,1,1970-01-01,To Cross the Rubicon (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?To%20Cross%20the%20Rubicon%20(1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+405,1192,1,1970-01-01,"Boys of St. Vincent, The (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?Boys%20of%20St.%20Vincent,%20The%20(1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,13,44
+405,213,2,1970-01-01,"Room with a View, A (1986)",1986-01-01,0.0,"http://us.imdb.com/M/title-exact?Room%20with%20a%20View,%20A%20(1986)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,134,534
+405,1419,2,1970-01-01,Highlander III: The Sorcerer (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Highlander%20III:%20The%20Sorcerer%20(1994),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,16,34
+405,1544,1,1970-01-01,It Takes Two (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?It%20Takes%20Two%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8
+405,1574,1,1970-01-01,Pharaoh's Army (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Pharaoh's%20Army%20(1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+405,663,2,1970-01-01,Being There (1979),1979-01-01,0.0,http://us.imdb.com/M/title-exact?Being%20There%20(1979),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,116,453
+405,640,1,1970-01-01,"Cook the Thief His Wife & Her Lover, The (1989)",1989-01-01,0.0,"http://us.imdb.com/M/title-exact?Cook%20the%20Thief%20His%20Wife%20&%20Her%20Lover,%20The%20(1989)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,82,248
+405,668,1,1970-01-01,Blood Beach (1981),1981-01-01,0.0,http://us.imdb.com/M/title-exact?Blood%20Beach%20(1981),0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6,13
+405,1535,1,1970-01-01,"Enfer, L' (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Enfer,%20L'%20(1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,12
+405,733,1,1970-01-01,Go Fish (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Go%20Fish%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,15,48
+405,27,1,1970-01-01,Bad Boys (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Bad%20Boys%20(1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,177
+405,1266,1,1970-01-01,Bread and Chocolate (Pane e cioccolata) (1973),1973-01-01,0.0,http://us.imdb.com/M/title-exact?Pane%20e%20Cioccolata%20(1973),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12,38
+405,725,1,1970-01-01,Exit to Eden (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Exit%20to%20Eden%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,16,44
+405,1545,2,1970-01-01,Frankie Starlight (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Frankie%20Starlight%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4,10
+405,372,1,1970-01-01,Jeffrey (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Jeffrey%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,34,120
+405,672,1,1970-01-01,Candyman (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Candyman%20(1992),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,65,177
+405,35,2,1970-01-01,Free Willy 2: The Adventure Home (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Free%20Willy%202:%20The%20Adventure%20Home%20(1995),0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11,24
+405,194,1,1970-01-01,"Sting, The (1973)",1973-01-01,0.0,"http://us.imdb.com/M/title-exact?Sting,%20The%20(1973)",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,241,978
+405,724,1,1970-01-01,Circle of Friends (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Circle%20of%20Friends%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,76,265
+405,1488,1,1970-01-01,Germinal (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Germinal%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,12
+405,382,1,1970-01-01,"Adventures of Priscilla, Queen of the Desert, The (1994)",1994-01-01,0.0,"http://us.imdb.com/M/title-exact?Adventures%20of%20Priscilla,%20Queen%20of%20the%20Desert,%20The%20(1994)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,111,399
+405,792,5,1970-01-01,Bullets Over Broadway (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Bullets%20Over%20Broadway%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,86,320
+405,1464,1,1970-01-01,"Stars Fell on Henrietta, The (1995)",1995-01-01,0.0,"http://us.imdb.com/Title?Stars+Fell+on+Henrietta,+The+(1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,7
+405,181,5,1970-01-01,Return of the Jedi (1983),1997-03-14,0.0,http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983),0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,507,2032
+405,435,1,1970-01-01,Butch Cassidy and the Sundance Kid (1969),1969-01-01,0.0,http://us.imdb.com/M/title-exact?Butch%20Cassidy%20and%20the%20Sundance%20Kid%20(1969),0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,216,853
+405,704,2,1970-01-01,"House of the Spirits, The (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?House%20of%20the%20Spirits,%20The%20(1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24,73
+405,46,1,1970-01-01,Exotica (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Exotica%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,27,96
+405,940,1,1970-01-01,Airheads (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Airheads%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,32,75
+405,730,1,1970-01-01,"Queen Margot (Reine Margot, La) (1994)",1996-01-01,0.0,"http://us.imdb.com/Title?Reine+Margot,+La+(1994)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,24,84
+405,1027,1,1970-01-01,"Shooter, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Shooter,%20The%20(1995)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8
+405,757,1,1970-01-01,Across the Sea of Time (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Across%20The%20Sea%20of%20Time%20(1995),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,11
+405,341,1,1970-01-01,Critical Care (1997),1997-01-01,0.0,http://us.imdb.com/M/title-exact?Critical+Care+(1997),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,11,34
+405,658,4,1970-01-01,Pump Up the Volume (1990),1990-01-01,0.0,http://us.imdb.com/M/title-exact?Pump%20Up%20the%20Volume%20(1990),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,79,270
+405,378,4,1970-01-01,Miracle on 34th Street (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Miracle%20on%2034th%20Street%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,101,376
+405,954,4,1970-01-01,Unzipped (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Unzipped%20(1995),0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11,39
+405,89,1,1970-01-01,Blade Runner (1982),1982-01-01,0.0,http://us.imdb.com/M/title-exact?Blade%20Runner%20(1982),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,275,1138
+405,69,4,1970-01-01,Forrest Gump (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Forrest%20Gump%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,321,1237
+405,1069,1,1970-01-01,Amateur (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Amateur%20(1994),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,18,57
+405,1429,1,1970-01-01,Sliding Doors (1998),1998-01-01,0.0,http://us.imdb.com/Title?Sliding+Doors+(1998),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4,11
+405,313,4,1970-01-01,Titanic (1997),1997-01-01,0.0,http://us.imdb.com/M/title-exact?imdb-title-120338,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,350,1486
+405,1101,3,1970-01-01,Six Degrees of Separation (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Six%20Degrees%20of%20Separation%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,74,279
+405,709,1,1970-01-01,Strictly Ballroom (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Strictly%20Ballroom%20(1992),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,104,419
+405,738,1,1970-01-01,Threesome (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Threesome%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,31,88
+405,1529,1,1970-01-01,Underground (1995),1996-03-29,0.0,http://us.imdb.com/M/title-exact?Underground%20(1995),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,14
+405,170,1,1970-01-01,Cinema Paradiso (1988),1988-01-01,0.0,http://us.imdb.com/M/title-exact?Nuovo%20cinema%20Paradiso%20(1988),0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,121,505
+405,1573,1,1970-01-01,Spirits of the Dead (Tre passi nel delirio) (1968),1968-01-01,0.0,http://us.imdb.com/M/title-exact?Tre%20passi%20nel%20delirio%20(1968),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,5
+405,466,1,1970-01-01,Red Rock West (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Red%20Rock%20West%20(1992),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,52,187
+405,1090,1,1970-01-01,Sliver (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Sliver%20(1993),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,37,89
+405,621,1,1970-01-01,"Davy Crockett, King of the Wild Frontier (1955)",1955-01-01,0.0,http://us.imdb.com/M/title-exact?Davy%20Crockett%2C%20King%20of%20the%20Wild%20Frontier%20%281955%29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,32
+405,665,1,1970-01-01,Alien 3 (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Alien%203%20(1992),0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,100,283
+405,550,2,1970-01-01,Die Hard: With a Vengeance (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Die%20Hard:%20With%20a%20Vengeance%20(1995),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,151,496
+405,174,5,1970-01-01,Raiders of the Lost Ark (1981),1981-01-01,0.0,http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981),0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,420,1786
+405,641,1,1970-01-01,Paths of Glory (1957),1957-01-01,0.0,http://us.imdb.com/M/title-exact?Paths%20of%20Glory%20(1957),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,33,139
+405,385,1,1970-01-01,True Lies (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?True%20Lies%20(1994),0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,208,741
+405,1043,1,1970-01-01,Rent-a-Kid (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Rent-a-Kid%20(1995),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8,24
+405,1220,3,1970-01-01,Higher Learning (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Higher%20Learning%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30,100
+405,1480,2,1970-01-01,Herbie Rides Again (1974),1974-01-01,0.0,http://us.imdb.com/M/title-exact?Herbie%20Rides%20Again%20(1974),0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,11,25
+405,1005,1,1970-01-01,"Double vie de Véronique, La (Double Life of Veronique, The) (1991)",1991-01-01,0.0,http://us.imdb.com/M/title-exact?Podwojne%20zycie%20Weroniki%20(1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,22,81
+405,806,1,1970-01-01,Menace II Society (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Menace%20II%20Society%20(1993),0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,50,173
+405,428,1,1970-01-01,Harold and Maude (1971),1971-01-01,0.0,http://us.imdb.com/M/title-exact?Harold%20and%20Maude%20(1971),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,121,462
+405,1306,1,1970-01-01,Delta of Venus (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Delta%20of%20Venus%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,6
+405,972,1,1970-01-01,Passion Fish (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Passion%20Fish%20(1992),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,28,89
+405,1208,1,1970-01-01,Kiss of Death (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Kiss%20of%20Death%20(1995),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,20,57
+405,638,1,1970-01-01,"Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)",1982-01-01,0.0,"http://us.imdb.com/M/title-exact?Retour%20de%20Martin%20Guerre,%20Le%20(1982)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,44,166
+405,877,1,1970-01-01,Excess Baggage (1997),1997-01-01,0.0,http://us.imdb.com/M/title-exact?Excess+Baggage+(1997),0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,52,132
+405,176,1,1970-01-01,Aliens (1986),1986-01-01,0.0,http://us.imdb.com/M/title-exact?Aliens%20(1986),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,284,1121
+405,1382,1,1970-01-01,"Bonheur, Le (1965)",1997-05-16,0.0,http://us.imdb.com/M/title-exact?Bonheur%2C%20Le%20%281965%29,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,8
+405,79,5,1970-01-01,"Fugitive, The (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?Fugitive,%20The%20(1993)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,336,1359
+405,660,2,1970-01-01,Fried Green Tomatoes (1991),1991-01-01,0.0,http://us.imdb.com/M/title-exact?Fried%20Green%20Tomatoes%20at%20the%20Whistle%20Stop%20Cafe%20(1991),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,153,576
+405,389,2,1970-01-01,Black Beauty (1994),1994-01-01,0.0,http://us.imdb.com/Title?Black+Beauty+(1994/I),0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,93
+405,1260,1,1970-01-01,Total Eclipse (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Total%20Eclipse%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,11
+405,582,3,1970-01-01,"Piano, The (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?Piano,%20The%20(1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,168,605
+405,657,1,1970-01-01,"Manchurian Candidate, The (1962)",1962-01-01,0.0,"http://us.imdb.com/M/title-exact?Manchurian%20Candidate,%20The%20(1962)",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,131,558
+405,86,1,1970-01-01,"Remains of the Day, The (1993)",1993-01-01,0.0,"http://us.imdb.com/M/title-exact?Remains%20of%20the%20Day,%20The%20(1993)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,150,591
+405,576,1,1970-01-01,Cliffhanger (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Cliffhanger%20(1993),0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,93,281
+405,110,1,1970-01-01,Operation Dumbo Drop (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Operation%20Dumbo%20Drop%20(1995),0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,31,78
+405,95,3,1970-01-01,Aladdin (1992),1992-01-01,0.0,http://us.imdb.com/M/title-exact?Aladdin%20(1992),0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,219,835
+405,1445,1,1970-01-01,Ladybird Ladybird (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Ladybird%20Ladybird%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,11
+405,177,1,1970-01-01,"Good, The Bad and The Ugly, The (1966)",1966-01-01,0.0,"http://us.imdb.com/M/title-exact?Buono,%20il%20brutto,%20il%20cattivo,%20Il%20(1966)",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,137,529
+405,1423,1,1970-01-01,"Walking Dead, The (1995)",1995-01-01,0.0,"http://us.imdb.com/M/title-exact?Walking%20Dead,%20The%20(1995)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,4,9
+405,1475,1,1970-01-01,Bhaji on the Beach (1993),1993-01-01,0.0,http://us.imdb.com/M/title-exact?Bhaji%20on%20the%20Beach%20(1993),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,8,23
+405,513,1,1970-01-01,"Third Man, The (1949)",1949-01-01,0.0,"http://us.imdb.com/M/title-exact?Third%20Man,%20The%20(1949)",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,72,312
+405,375,1,1970-01-01,Showgirls (1995),1995-01-01,0.0,http://us.imdb.com/M/title-exact?Showgirls%20(1995),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,23,45
+405,445,4,1970-01-01,"Body Snatcher, The (1945)",1945-01-01,0.0,"http://us.imdb.com/M/title-exact?Body%20Snatcher,%20The%20(1945)",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,22,77
+405,1246,1,1970-01-01,Bushwhacked (1995),1995-01-01,0.0,http://us.imdb.com/Title?Bushwhacked+(1995/I),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,11
+405,196,1,1970-01-01,Dead Poets Society (1989),1989-01-01,0.0,http://us.imdb.com/M/title-exact?Dead%20Poets%20Society%20(1989),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,251,983
+405,958,1,1970-01-01,To Live (Huozhe) (1994),1994-01-01,0.0,http://us.imdb.com/M/title-exact?Huozhe%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,14,53
